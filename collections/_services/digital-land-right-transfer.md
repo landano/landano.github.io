@@ -1,23 +1,23 @@
 ---
-title: "Software Engineering"
-description: "Building complex web applications and system software."
-date: 2019-10-03
-weight: 6
+title: "Digital Land Right Transfer"
+description: "Improving search engine rankings through techincal on page SEO and content creation."
+date: 2021-07-23
+weight: 2
 header_transparent: true
-fa_icon: "fab fa-codepen"
-icon: "assets/images/icons/icons8-merge-git-100.png"
-thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
-image: "/assets/images/gen/services/service-6.webp"
+fa_icon: "fa-light fa-handshake-simple"
+icon: false
+thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
+image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "Software Engineering"
-  sub_heading: "Building complex web applications and system software."
+  heading: "SEO"
+  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/gen/services/service-5.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

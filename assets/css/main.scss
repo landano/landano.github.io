@@ -11,6 +11,7 @@ $base-bg-3: {{ site.colors.background_3 | default: '#f1f3f4' }};
 $base-text: {{ site.colors.text | default: '#111827' }};
 $base-text-2: {{ site.colors.text_2 | default: '#4b5563' }};
 $logo-text:  {{ site.colors.logo_text | default: '#111827' }};
+$card-icon-color: {{ site.colors.card-icon-color | default: '#000000' }};
 
 // Darkmode colors
 $primary-dark: {{ site.colors.primary_dark | default: site.colors.primary }};
@@ -23,6 +24,7 @@ $base-bg-3-dark: {{ site.colors.background_3_dark | default: '#24272d' }};
 $base-text-dark: {{ site.colors.text_dark | default: '#F4F4F5' }};
 $base-text-2-dark: {{ site.colors.text_2_dark | default: '#D1D5DB' }};
 $logo-text-dark: {{ site.colors.logo_text_dark | default: '#F4F4F5' }};
+$card-icon-color-dark: {{ site.colors.card-icon-color_dark | default: '#ffffff' }};
 
 $zs-colors-light: (
     "primary": $primary,
@@ -34,7 +36,8 @@ $zs-colors-light: (
     "base-bg-3": $base-bg-3,
     "base-text": $base-text,
     "base-text-2": $base-text-2,
-    "logo-text": $logo-text
+    "logo-text": $logo-text,
+    "card-icon-color": $card-icon-color
 );
 
 $zs-colors-dark: (
@@ -47,7 +50,8 @@ $zs-colors-dark: (
     "base-bg-3": $base-bg-3-dark,
     "base-text": $base-text-dark,
     "base-text-2": $base-text-2-dark,
-    "logo-text": $logo-text-dark
+    "logo-text": $logo-text-dark,
+    "card-icon-color": $card-icon-color-dark
 );
 
 $zs-colors-light-css-vars: ();

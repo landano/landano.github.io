@@ -2,22 +2,6 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Services
-    url: /services/
-    weight: 1
-    child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
   - name: Projects
     url: /projects/
     weight: 2
@@ -30,15 +14,18 @@ main:
         url: /projects/opera-house/
       - name: "Subway Signage"
         url: /projects/subway-signage/
+  - name: Team
+    url: /team/
+    weight: 3
   - name: Blog
     url: /blog/
     weight: 4
   - name: About
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
+  - name: Partners
+    url: /partners/
+    weight: 5
 footer_primary:
   - name: Home
     url: /

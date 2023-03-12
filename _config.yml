@@ -81,8 +81,8 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary: "#2b3af7"
-  primary_2: "#424ff8"
+  primary: "#1172ba"
+  primary_2: "#08385c"
   primary_text: "#fdfcf9"
   secondary: "#702bf7"
   background: "#ffffff"
@@ -92,8 +92,8 @@ colors:
   text_2: "#3b364c"
 
   # dark-mode colors
-  primary_dark: "#4486f2"
-  primary_2_dark: "#2f74e5"
+  primary_dark: "#1172ba"
+  primary_2_dark: "#08385c"
   primary_text_dark: "#fdfcf9"
   secondary_dark: "#8215cb"
   background_dark: "#0f0f10"
@@ -111,13 +111,13 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "Landano"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "30px"
-  logo_image_desktop_width: "132px"
+  logo_image_desktop_height: "60px"
+  logo_image_desktop_width: "318px"
   logo_image_mobile_height: "30px"
   logo_image_mobile_width: "34px"
   show_logo_image_on_mobile: true
@@ -154,8 +154,8 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  footer_title: "Landano B.V."
+  footer_description: "Securing property rights for everyone."
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
@@ -168,7 +168,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2023 Landano B.V."
 
 sidebar:
   enable_sidebar_services: true

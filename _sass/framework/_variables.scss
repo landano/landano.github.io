@@ -21,7 +21,7 @@ $section-gutter: 30px;
 $spacers: 
   (
     "gutter": $grid-gutter-width,
-    "gutter-half": $grid-gutter-width / 2,
+    "gutter-half": calc($grid-gutter-width / 2),
     0: 0,
     1: 10px,
     2: 20px,
@@ -46,5 +46,5 @@ $spacers:
 );
 
 // Theme Variables
-$header-height: 60px !default;
+$header-height: 74px !default;
 $card-border-radius: 4px !default;

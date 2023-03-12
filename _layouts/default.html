@@ -17,6 +17,7 @@
           localStorage.getItem('darkMode') === 'true' && document.documentElement.setAttribute('data-mode', 'dark');
       </script>
     {% endif %}
+    <script src="https://kit.fontawesome.com/cfecb7d7b7.js" crossorigin="anonymous"></script>
 
   </head>
 <body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">

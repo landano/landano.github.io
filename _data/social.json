@@ -2,36 +2,21 @@
   {
     "title": "Twitter",
     "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
+    "url": "https://twitter.com/landanodapp"
   },
   {
     "title": "Github",
     "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Discord",
-    "fa_icon": "fab fa-discord",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Tiktok",
-    "fa_icon": "fab fa-tiktok",
-    "url": "https://www.zerostatic.io"
+    "url": "https://github.com/landano"
   },
   {
     "title": "Facebook",
     "fa_icon": "fab fa-facebook-square",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Instagram",
-    "fa_icon": "fab fa-instagram-square",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.facebook.com/people/Landano-DApp/100076787829706/"
   },
   {
     "title": "Linkedin",
     "fa_icon": "fab fa-linkedin",
-    "url": "https://www.zerostatic.io"
+    "url": "https://ca.linkedin.com/company/landano-b-v?trk=public_profile_experience-item_profile-section-card_image-click"
   }
 ]

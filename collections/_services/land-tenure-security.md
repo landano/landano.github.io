@@ -1,26 +1,26 @@
 ---
-title: "SEO"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
-date: 2021-07-23
+title: "Land Tenure Security"
+description: "Design beautiful modern websites using the Jamstack."
+date: 2018-11-28T15:15:34+10:00
 weight: 5
 header_transparent: true
-fa_icon: "far fa-chart-bar"
-icon: "assets/images/icons/icons8-bar-chart-100.png"
-thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
-image: "/assets/images/gen/services/service-5.webp"
+fa_icon: "fa-regular fa-house-circle-check"
+icon: false
+thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  heading: "Web Design"
+  sub_heading: "Design beautiful modern websites using the Jamstack."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-5.webp"
-  fullscreen_mobile: false
+  background_image: "/assets/images/gen/services/service-4-large.webp"
+  fullscreen_mobile: true
   fullscreen_desktop: false
-  height: 660px
+  height: 660px;
   buttons:
     enabled: false
     list:

@@ -1,22 +1,23 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
-date: 2018-11-28T15:15:34+10:00
-weight: 2
+title: "Access Cadastral Records"
+description: "Our experienced software engineers develop websites and desktop applications"
+date: 2017-11-28T15:14:54+10:00
+weight: 6
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+fa_icon: "fa-regular fa-map-location-dot"
+icon: false
+thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
+image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
-  text_color: "#ffffff"
+  heading: "Web Development"
+  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/services/service-1-large.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
