@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://landano.github.io/"
+url: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
