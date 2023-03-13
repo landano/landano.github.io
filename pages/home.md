@@ -49,18 +49,18 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-6-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
+  heading: "Empowering Property Owners with Landano's Decentralized Land Management Solution"
   sub_heading: ""
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Simplify land management with Landano's decentralized app"
         fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Cardano blockchain ensures transparent and fraud-free land records"
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
+      - text: "RealFi primitives for mortgages, loans, and leases"
         fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Piloting in Ghana, Mozambique, and KenyaÌ"
         fa_icon: "fas fa-check"
   buttons:
     enabled: true
