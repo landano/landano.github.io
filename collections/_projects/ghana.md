@@ -1,21 +1,21 @@
 ---
-title: "Opera House"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+title: "Ghana"
+description: "Revolutionizing Land Management in Ghana with Digital Solutions"
 date: 2022-11-11
 weight: 1
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
+thumbnail: "/assets/images/gen/projects/projects-ghana-large.webp"
+image: "/assets/images/gen/projects/projects-ghana-large.webp"
 client: "Region of Valencia"
 
 hero:
   enabled: true
-  heading: "Opera House"
-  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+  heading: "Ghana"
+  sub_heading: "Revolutionizing Land Management in Ghana with Digital Solutions"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-3-3.webp"
+  background_image: "/assets/images/gen/projects/projects-ghana-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false

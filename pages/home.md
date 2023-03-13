@@ -48,7 +48,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/home/home-landano-thumbnail.webp"
   heading: "Empowering Property Owners with Landano's Decentralized Land Management Solution"
   sub_heading: ""
   features:

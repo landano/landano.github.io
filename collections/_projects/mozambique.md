@@ -1,21 +1,21 @@
 ---
-title: "Modern Office Design"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+title: "Mozambique"
+description: "Simplify Property Transactions and Secure Your Property Rights with Us"
 date: 2022-11-11
 weight: 2
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-1.webp"
+thumbnail: "/assets/images/gen/projects/project-mozambique-large.webp"
+image: "/assets/images/gen/projects/project-mozambique-large.webp"
 client: "Hi"
 
 hero:
   enabled: true
-  heading: "Modern Office Design"
-  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+  heading: "Mozambique"
+  sub_heading: "Simplify Property Transactions and Secure Your Property Rights with Us"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-1-1.webp"
+  background_image: "/assets/images/gen/projects/project-mozambique-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
