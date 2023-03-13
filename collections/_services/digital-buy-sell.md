@@ -1,6 +1,6 @@
 ---
 title: "Digital Buy/Sell Process"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+description: "Streamline your property transactions with our digital buy/sell process"
 date: 2023-03-12
 weight: 1
 header_transparent: true
@@ -11,11 +11,11 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "Digital Buy/Sell Process"
+  sub_heading: "Streamline your property transactions with our digital buy/sell process"
   text_color: "#ffffff"
   background_color: ""
-  background_gradient: true
+  background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/service-3.webp"
   fullscreen_mobile: false

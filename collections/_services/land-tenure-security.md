@@ -1,6 +1,6 @@
 ---
 title: "Land Tenure Security"
-description: "Design beautiful modern websites using the Jamstack."
+description: "Ensure secure and stable land tenure with our innovative system"
 date: 2018-11-28T15:15:34+10:00
 weight: 5
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  heading: "Land Tenure Security"
+  sub_heading: "Ensure secure and stable land tenure with our innovative system"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

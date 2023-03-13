@@ -1,6 +1,6 @@
 ---
 title: "Digital Land Right Transfer"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
+description: "Simplify land ownership transfer with our digital platform"
 date: 2021-07-23
 weight: 2
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  heading: "Digital Land Right Transfer"
+  sub_heading: "Simplify land ownership transfer with our digital platform"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

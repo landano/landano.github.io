@@ -1,6 +1,6 @@
 ---
 title: "DeFi Microlending"
-description: "Building complex web applications and system software."
+description: "Empower smallholder farmers with decentralized microlending"
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "Software Engineering"
-  sub_heading: "Building complex web applications and system software."
+  heading: "DeFi Microlending"
+  sub_heading: "Empower smallholder farmers with decentralized microlending"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

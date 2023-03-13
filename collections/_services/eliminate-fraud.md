@@ -1,6 +1,6 @@
 ---
 title: "Eliminate Fraud"
-description: "Understanding the needs of the user and creating product solutions."
+description: "Protect your property from fraudulent activities with our solution"
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Eliminate Fraud"
+  sub_heading: "Protect your property from fraudulent activities with our solution"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

@@ -1,6 +1,6 @@
 ---
 title: "Access Cadastral Records"
-description: "Our experienced software engineers develop websites and desktop applications"
+description: "Easily access and manage cadastral records with our platform"
 date: 2017-11-28T15:14:54+10:00
 weight: 6
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Web Development"
-  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  heading: "Access Cadastral Records"
+  sub_heading: "Easily access and manage cadastral records with our platform"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
