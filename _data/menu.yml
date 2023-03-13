@@ -6,14 +6,10 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Modern Office Design"
-        url: /projects/modern-office-design/
-      - name: "Water Works"
-        url: /projects/water-works-project/
-      - name: "Opera House"
-        url: /projects/opera-house/
-      - name: "Subway Signage"
-        url: /projects/subway-signage/
+      - name: "Ghana"
+        url: /projects/ghana/
+      - name: "Mozambique"
+        url: /projects/mozambique/
   - name: Team
     url: /team/
     weight: 3
@@ -30,7 +26,7 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Services
+  - name: Solutions
     url: /services/
     weight: 2
   - name: Projects
@@ -49,6 +45,9 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
+  - name: Investors
+    url: /Investors/
+    weight: 4
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
@@ -56,9 +55,6 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/

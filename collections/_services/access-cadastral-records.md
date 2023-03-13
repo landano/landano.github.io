@@ -4,7 +4,7 @@ description: "Our experienced software engineers develop websites and desktop ap
 date: 2017-11-28T15:14:54+10:00
 weight: 6
 header_transparent: true
-fa_icon: "fa-regular fa-map-location-dot"
+fa_icon: "fa-light fa-map-location-dot"
 icon: false
 thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-1.webp"

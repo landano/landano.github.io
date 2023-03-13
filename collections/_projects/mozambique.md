@@ -1,12 +1,12 @@
 ---
 title: "Modern Office Design"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-12-20
-weight: 1
+date: 2022-11-11
+weight: 2
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-1.webp"
-client: "Zero Developments Pty Ltd"
+client: "Hi"
 
 hero:
   enabled: true

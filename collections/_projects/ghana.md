@@ -1,8 +1,8 @@
 ---
 title: "Opera House"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2018-12-20
-weight: 3
+date: 2022-11-11
+weight: 1
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"

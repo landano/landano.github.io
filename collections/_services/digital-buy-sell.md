@@ -4,7 +4,7 @@ description: "The expression of a brand including its name, trademark, and visua
 date: 2023-03-12
 weight: 1
 header_transparent: true
-fa_icon: "fa-regular fa-dollar-sign"
+fa_icon: "fa-light fa-dollar-sign"
 icon: false
 thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
 image: "/assets/images/gen/services/service-3.webp"

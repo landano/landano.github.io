@@ -4,7 +4,7 @@ description: "Understanding the needs of the user and creating product solutions
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
-fa_icon: "fa-regular fa-shield-check"
+fa_icon: "fa-light fa-shield-check"
 icon: false
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
 image: "/assets/images/gen/services/service-2.webp"
