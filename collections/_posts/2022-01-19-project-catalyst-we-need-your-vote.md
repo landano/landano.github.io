@@ -20,7 +20,7 @@ You can also check out this recent post to find out more about what Landano does
 <img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Landano</span><span class="kg-bookmark-publisher">Landano</span>
 </div>
 </div>
-<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/01/Screen-Shot-2022-01-08-at-12.41.37-PM-2.png" alt=""></div></a></figure>
+<div class="kg-bookmark-thumbnail"><img src="/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-12.41.37-PM-2.png" alt=""></div></a></figure>
 
 And see this post for more about the land registration problem that Landano is tackling:
 
@@ -31,7 +31,7 @@ And see this post for more about the land registration problem that Landano is t
 <img class="kg-bookmark-icon" src=" __GHOST_URL__ /favicon.png" alt=""><span class="kg-bookmark-author">Landano</span><span class="kg-bookmark-publisher">Landano</span>
 </div>
 </div>
-<div class="kg-bookmark-thumbnail"><img src=" __GHOST_URL__ /content/images/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM-2.png" alt=""></div></a></figure>
+<div class="kg-bookmark-thumbnail"><img src="/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM-2.png" alt=""></div></a></figure>
 
 We also have a pitchdeck presentation about the project which is followed by an in-depth Q&A session. Thank you for &nbsp;your support!
 

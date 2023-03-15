@@ -16,7 +16,7 @@ Before colonial rule in Ghana, land was governed by customary law, which means t
   
 These lands, depending on where you are in Ghana, are still known today as stool, skin, clan, and family lands and they make up about 80% of all land in Ghana. In all cases, these lands are held by their respective authority for the community. Those receiving rights in these lands don’t actually own their land outright but lease them from the customary authority who holds the interest. The remaining 20% are lands owned or managed by the state.
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/09/Some-Ghanaian-farmers.jpg" class="kg-image" alt loading="lazy" width="650" height="366" srcset=" __GHOST_URL__ /content/images/size/w600/2022/09/Some-Ghanaian-farmers.jpg 600w, __GHOST_URL__ /content/images/2022/09/Some-Ghanaian-farmers.jpg 650w"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg" class="kg-image" alt loading="lazy" width="650" height="366" srcset="/assets/ghost/images/size/w600/2022/09/Some-Ghanaian-farmers.jpg 600w,/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg 650w"></figure>
 
 Since its independence, Ghana has attempted to create a land tenure system that can honour the traditional cultural land tenure practices while simultaneously implementing processes and records that are more aligned with the British legal system introduced during colonial rule.  
   
@@ -35,13 +35,13 @@ However, while the villager may have been issued documentation of their transact
 - paying various administrative fees  
 - paying for travel costs if any of these steps are outside of their immediate community, which they often are
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/09/IMG-20220324-WA0005-copy--1-.jpg" class="kg-image" alt loading="lazy" width="762" height="1016" srcset=" __GHOST_URL__ /content/images/size/w600/2022/09/IMG-20220324-WA0005-copy--1-.jpg 600w, __GHOST_URL__ /content/images/2022/09/IMG-20220324-WA0005-copy--1-.jpg 762w" sizes="(min-width: 720px) 720px"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/09/IMG-20220324-WA0005-copy--1-.jpg" class="kg-image" alt loading="lazy" width="762" height="1016" srcset="/assets/ghost/images/size/w600/2022/09/IMG-20220324-WA0005-copy--1-.jpg 600w,/assets/ghost/images/2022/09/IMG-20220324-WA0005-copy--1-.jpg 762w" sizes="(min-width: 720px) 720px"></figure>
 
 Whether the steps are too many, the time required too great, or simply because it costs too much, current research has clearly shown that many Ghanaians go without formally registering their land rights with the state. However, without formal registration, landowners are vulnerable to various land tenure risks, such as land encroachments, multiple sale of land parcels, and competing interests in land.  
   
 This has led to a high number of land tenure disputes in Ghana. Amazingly, 60% of all court cases in Ghana are related to land disputes. These often take years to settle and the original land rights holder often does not win their case due to bureaucratic, record-keeping idiosyncrasies. Those unable to pursue legal aid, or those who find the wait untenable, often resort to violent confrontations in order to protect their land rights.
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/09/landguard-1.jpg" class="kg-image" alt loading="lazy" width="427" height="304"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/09/landguard-1.jpg" class="kg-image" alt loading="lazy" width="427" height="304"></figure>
 
 The burden that these issues place on the citizens of Ghana has been characterized as a leading contributor to the country’s inability to improve critical infrastructure.   
 Ghana is not the only country struggling with improving its land registry systems. Many hundreds of millions of dollars of international development funding has been made available over recent decades to modernize and digitize land administration systems in the Global South.   
@@ -56,11 +56,11 @@ Landano wants to provide technology and services to address this gap. We are not
   
 Landano offers a way for chiefs to issue their land rights documents more efficiently and more reliably while providing a central transaction database. For land rights-holders, Landano safeguards their records and establishes a timeline which points to the rightful owner and their progress through the land administration system.
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/09/4---Landano-MVP-screenshot.png" class="kg-image" alt loading="lazy" width="2000" height="1336" srcset=" __GHOST_URL__ /content/images/size/w600/2022/09/4---Landano-MVP-screenshot.png 600w, __GHOST_URL__ /content/images/size/w1000/2022/09/4---Landano-MVP-screenshot.png 1000w, __GHOST_URL__ /content/images/size/w1600/2022/09/4---Landano-MVP-screenshot.png 1600w, __GHOST_URL__ /content/images/size/w2400/2022/09/4---Landano-MVP-screenshot.png 2400w" sizes="(min-width: 720px) 720px"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/09/4---Landano-MVP-screenshot.png" class="kg-image" alt loading="lazy" width="2000" height="1336" srcset="/assets/ghost/images/size/w600/2022/09/4---Landano-MVP-screenshot.png 600w,/assets/ghost/images/size/w1000/2022/09/4---Landano-MVP-screenshot.png 1000w,/assets/ghost/images/size/w1600/2022/09/4---Landano-MVP-screenshot.png 1600w,/assets/ghost/images/size/w2400/2022/09/4---Landano-MVP-screenshot.png 2400w" sizes="(min-width: 720px) 720px"></figure>
 
 We launched a pilot project in the township of Hiawu Besease, in Ghana’s Ashanti region. Landano team members are working closely with village leadership to create digital records to support their land administration functions.
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/09/IMG_1680_graded.JPG" class="kg-image" alt loading="lazy" width="2000" height="1183" srcset=" __GHOST_URL__ /content/images/size/w600/2022/09/IMG_1680_graded.JPG 600w, __GHOST_URL__ /content/images/size/w1000/2022/09/IMG_1680_graded.JPG 1000w, __GHOST_URL__ /content/images/size/w1600/2022/09/IMG_1680_graded.JPG 1600w, __GHOST_URL__ /content/images/size/w2400/2022/09/IMG_1680_graded.JPG 2400w" sizes="(min-width: 720px) 720px"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/09/IMG_1680_graded.JPG" class="kg-image" alt loading="lazy" width="2000" height="1183" srcset="/assets/ghost/images/size/w600/2022/09/IMG_1680_graded.JPG 600w,/assets/ghost/images/size/w1000/2022/09/IMG_1680_graded.JPG 1000w,/assets/ghost/images/size/w1600/2022/09/IMG_1680_graded.JPG 1600w,/assets/ghost/images/size/w2400/2022/09/IMG_1680_graded.JPG 2400w" sizes="(min-width: 720px) 720px"></figure>
 
 The Landano architecture is designed to comply with the Ghana Lands Act, Ghanaian digital evidence requirements, and international ISO standards for record-keeping. It supports use cases for land administrators, rights-holders, and rights-seekers.   
   

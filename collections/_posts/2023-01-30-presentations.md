@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Presentations and interviews
-date: '2023-01-30 22:55:51'
+date: "2023-01-30 22:55:51"
+image: "/assets/ghost/images/2023/01/Fnk7MwAWIAAGMeo.jpeg"
 ---
-
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2023/01/Fnk7MwAWIAAGMeo.jpeg" class="kg-image" alt loading="lazy" width="2000" height="1066" srcset=" __GHOST_URL__ /content/images/size/w600/2023/01/Fnk7MwAWIAAGMeo.jpeg 600w, __GHOST_URL__ /content/images/size/w1000/2023/01/Fnk7MwAWIAAGMeo.jpeg 1000w, __GHOST_URL__ /content/images/size/w1600/2023/01/Fnk7MwAWIAAGMeo.jpeg 1600w, __GHOST_URL__ /content/images/2023/01/Fnk7MwAWIAAGMeo.jpeg 2048w" sizes="(min-width: 720px) 720px"></figure>
 
 January 27, 2023 - Quantum Conference (Miami)  
 "[Connecting the Real World to Blockchain](https://docs.google.com/presentation/d/1I4jI3o6AVoserHQ2VmiJNpqYiOFn7Eb4QKPAgAKgG18/edit?usp=sharing)"

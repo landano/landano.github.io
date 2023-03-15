@@ -10,7 +10,7 @@ The Landano project has been making incredible progress on the ground in Ghana a
   
 We are in the process of drafting more detailed blog posts about this work and will share them over the coming weeks. In the meanwhile, we have prepared an updated slidedeck that summarizes a lot of these highlights: [tinyurl.com/45vz83sy](https://t.co/3F9ApSQEqC)
 
-<figure class="kg-card kg-image-card"><img src=" __GHOST_URL__ /content/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png" class="kg-image" alt loading="lazy" width="2000" height="1107" srcset=" __GHOST_URL__ /content/images/size/w600/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 600w, __GHOST_URL__ /content/images/size/w1000/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 1000w, __GHOST_URL__ /content/images/size/w1600/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 1600w, __GHOST_URL__ /content/images/size/w2400/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 2400w" sizes="(min-width: 720px) 720px"></figure>
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png" class="kg-image" alt loading="lazy" width="2000" height="1107" srcset="/assets/ghost/images/size/w600/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 600w,/assets/ghost/images/size/w1000/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 1000w,/assets/ghost/images/size/w1600/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 1600w,/assets/ghost/images/size/w2400/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png 2400w" sizes="(min-width: 720px) 720px"></figure>
 
 Please feel free to re-share the link to the slidedeck as well as re-tweet our most recent call to action for Project Catalyst Fund 9 voting. We need your help to spread the word.
 

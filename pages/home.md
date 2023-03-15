@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Landano - Property Rights Secured"
+description: "Secure and transparent land administration on Cardano. Simplify property transactions, prevent fraud, and ensure trustworthy DeFi primitives for everyone's property rights."
 header_transparent: true
 meta_title: Landano - Property Rights Secured
 

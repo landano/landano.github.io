@@ -8,7 +8,7 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Our Team"
+  heading: "The Landano Team"
   sub_heading: ""
   text_color: "#FFFFFF"
   background_color: ""
@@ -31,7 +31,7 @@ hero:
 
 grid:
   collection: "team"
-  sort_by: "weight" # "date", "weight"
+  sort_by: "weight" # "weight", "date"
   columns: 3
 
 intro:
