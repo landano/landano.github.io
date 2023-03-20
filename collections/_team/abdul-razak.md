@@ -3,8 +3,8 @@ title: "Abdul Razak"
 date: 2018-12-20T13:44:30+10:00
 weight: 7
 description: "Software Developer & Geospatial Engineer"
-thumbnail: "/assets/images/team/robert-johnson.jpg"
-image: "/assets/images/team/robert-johnson.jpg"
+thumbnail: "/assets/images/team/abdul-razak.jpg"
+image: "/assets/images/team/abdul-razak.jpg"
 jobtitle: "Software Developer & Geospatial Engineer"
 links:
   - url: "https://www.linkedin.com"

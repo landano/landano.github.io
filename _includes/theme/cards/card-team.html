@@ -20,12 +20,13 @@
         <p>{{ description }}</p>
       </div>
     {% endif %}
-    {% if links %}
+    {% if links.length > 0 %}
       <div class="card-links">
-        {% for  links in links %}
-          {% if links.icon %}
-            <a href="{{ links.url }}">
-              <i class="{{ links.icon }}"></i>
+        Hello
+        {% for  link in links %}
+          {% if link.icon %}
+            <a href="{{ link.url }}">
+              <i class="{{ link.icon }}"></i>
             </a>
           {% endif %}
         {% endfor %}

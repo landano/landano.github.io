@@ -2,10 +2,10 @@
 title: "Dan Amankona"
 date: 2018-12-20T13:44:30+10:00
 weight: 4
-description: "Sage founded the agency in 2015 and runs day to day operations of the studio."
+description: "Co-Founder & Chief Marketing Officer (CMO)"
 thumbnail: "/assets/images/team/dan-amankona.png"
 image: "/assets/images/team/dan-amankona.png"
-jobtitle: "Founder/Director"
+jobtitle: "Co-Founder & Chief Marketing Officer (CMO)"
 links:
   - url: "https://www.linkedin.com"
     label: LinkedIn
