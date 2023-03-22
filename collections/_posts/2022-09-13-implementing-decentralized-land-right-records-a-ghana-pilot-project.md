@@ -2,6 +2,8 @@
 layout: post
 title: Implementing Landano in Ghana
 date: '2022-09-13 23:24:41'
+image: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
+thumbnail: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
 tags:
 - blog
 ---

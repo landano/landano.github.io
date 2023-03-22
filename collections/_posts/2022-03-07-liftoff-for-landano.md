@@ -2,6 +2,8 @@
 layout: post
 title: Liftoff for Landano!
 date: '2022-03-07 20:11:40'
+image: "/assets/ghost/images/2022/03/file-2.png"
+thumbnail: "/assets/ghost/images/2022/03/file-2.png"
 tags:
 - blog
 ---

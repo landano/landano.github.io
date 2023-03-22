@@ -3,6 +3,8 @@ layout: post
 title: What does Landano do?
 featured: true
 date: '2022-01-08 00:45:18'
+image: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
+thumbnail: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
 tags:
 - faq
 - blog

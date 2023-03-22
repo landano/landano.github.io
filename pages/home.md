@@ -75,7 +75,7 @@ intro:
 
 partners:
   enabled: true
-  limit: 5
+  limit: 8
   sort: "weight" # 'date'
 
 projects:

@@ -2,6 +2,8 @@
 layout: post
 title: Launching on Cardano Mainnet
 date: '2022-08-14 17:24:26'
+image: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
+thumbnail: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
 tags:
 - blog
 ---

@@ -1,32 +1,42 @@
 [
   {
-    "title": "Jekyll",
-    "image": "assets/images/partners/jekyll-mark.png",
+    "title": "Empowa",
+    "image": "assets/images/partners/empowa_120.png",
     "url": "https://www.zerostatic.io"
   },
   {
-    "title": "Netlify",
-    "image": "assets/images/partners/netlify.png",
+    "title": "Wada",
+    "image": "assets/images/partners/Wada-logo-4_120.png",
     "url": "https://www.zerostatic.io"
   },
   {
-    "title": "Scss",
-    "image": "assets/images/partners/sass.png",
+    "title": "TerraFirma",
+    "image": "assets/images/partners/TerraFirmaLogo_120.jpg",
     "url": "https://www.zerostatic.io"
   },
   {
-    "title": "Mailchimp",
-    "image": "assets/images/partners/mailchimp.svg",
+    "title": "IAMX",
+    "image": "assets/images/partners/iamx-logo-1_120.png",
     "url": "https://www.zerostatic.io"
   },
   {
-    "title": "Github",
-    "image": "assets/images/partners/github.svg",
+    "title": "ILAPI",
+    "image": "assets/images/partners/ILAP-logo_50.jpg",
     "url": "https://www.zerostatic.io"
   },
   {
-    "title": "Algolia",
-    "image": "assets/images/partners/algolia.svg",
+    "title": "CCL",
+    "image": "assets/images/partners/CCL-logojpeg_50.jpeg",
+    "url": "https://www.zerostatic.io"
+  },
+  {
+    "title": "Arkly",
+    "image": "assets/images/partners/arkly-logo-1_120.png",
+    "url": "https://www.zerostatic.io"
+  },
+  {
+    "title": "Project Catalyst",
+    "image": "assets/images/partners/Catalyst-logo_120.jpeg",
     "url": "https://www.zerostatic.io"
   }
 ]

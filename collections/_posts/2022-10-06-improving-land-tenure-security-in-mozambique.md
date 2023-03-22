@@ -3,6 +3,8 @@ layout: post
 title: Improving Land Security in Mozambique
 featured: true
 date: '2022-10-06 17:13:22'
+image: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
+thumbnail: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
 tags:
 - blog
 ---
