@@ -13,7 +13,7 @@ hero:
   enabled: true
   heading: "DeFi Microlending"
   sub_heading: "Empower smallholder farmers with decentralized microlending"
-  text_color: "#ffffff"
+  text_color: "#fff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
