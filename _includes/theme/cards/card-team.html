@@ -3,16 +3,30 @@
 {% assign thumbnail = include.thumbnail %}
 {% assign jobtitle = include.jobtitle %}
 {% assign links = include.links %}
+{% assign url = include.url %}
 
 <div class="card card-team {% if include.thumbnail %}card-has-thumbnail{% endif %} {% if include.icon %}card-has-icon{% endif %}">
   {% if thumbnail %}
     <div class="card-thumbnail">
-      <img src="{{ thumbnail | relative_url }}"/>
+      {% if url %}
+        <a href="{{ url | relative_url }}">
+          <img width="140" height="140" src="{{ thumbnail | relative_url }}"/>
+        </a>
+      {% else %} 
+        <img width="140" height="140" src="{{ thumbnail | relative_url }}"/>
+      {% endif %}
     </div>
   {% endif %}
+
   <div class="card-content">
     <div class="card-title">
-      <h3>{{ title }}</h3>
+      {% if url %}
+        <a href="{{ url | relative_url }}">
+          <h3>{{ title }}</h3>
+        </a>
+      {% else %} 
+        <h3>{{ title }}</h3>
+      {% endif %}
     </div>
     <div class="card-jobtitle">{{ jobtitle }}</div>
     {% if description %}
@@ -20,10 +34,9 @@
         <p>{{ description }}</p>
       </div>
     {% endif %}
-    {% if links.length > 0 %}
+    {% if links %}
       <div class="card-links">
-        Hello
-        {% for  link in links %}
+        {% for link in links %}
           {% if link.icon %}
             <a href="{{ link.url }}">
               <i class="{{ link.icon }}"></i>

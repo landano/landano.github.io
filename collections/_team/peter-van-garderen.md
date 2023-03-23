@@ -5,11 +5,10 @@ weight: 1
 description: "Co-founder & Chief Executive Officer (CEO)"
 thumbnail: "/assets/images/team/peter-van-garderen.png"
 image: "/assets/images/team/peter-van-garderen.png"
-jobtitle: "Co-founder & Chief Executive Officer (CEO)"
 links:
   - url: "https://twitter.com/pjvangarderen"
-    label: LinkedIn
-    icon: "fab fa-linkedin"
+    label: Twitter
+    icon: "fab fa-twitter"
   - url: "https://www.linkedin.com/in/petervangarderen/"
     label: LinkedIn
     icon: "fab fa-linkedin"

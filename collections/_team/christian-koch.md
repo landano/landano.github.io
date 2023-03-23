@@ -7,10 +7,8 @@ thumbnail: "/assets/images/team/christian-koch.png"
 image: "/assets/images/team/christian-koch.png"
 jobtitle: "Systems Analyst & Researcher"
 links:
-  - url: "https://www.linkedin.com"
+  - url: "https://www.linkedin.com/in/christian-koch-5a070120a/?ref=landano.io"
     label: LinkedIn
     icon: "fab fa-linkedin"
-  - url: "https://github.com"
-    label: Github
-    icon: "fab fa-github"
 ---
+Christian is an archival science graduate student at the University of British Columbia who is working on blockchain, record-keeping, and AI technology research. His professional experience includes the InterPares trustworthy AI research project, Peace Corps development projects in Zambia, and web archiving for the Saving Ukrainian Cultural Heritage Online initiative.

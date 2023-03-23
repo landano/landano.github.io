@@ -33,6 +33,7 @@ grid:
   collection: "team"
   sort_by: "weight" # "weight", "date"
   columns: 3
+  prevent_click: false
 
 intro:
   enabled: false

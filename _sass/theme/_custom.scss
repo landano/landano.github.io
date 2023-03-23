@@ -40,3 +40,21 @@
     background-color: var(--color-base-bg-3);
   }
 }
+
+.team-meta {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.team-links {
+  .fab {
+    font-size: 30px;
+    margin-right: 10px;
+  }
+}
+
+.team-image {
+  img {
+    max-width: 80%;
+  }
+}
