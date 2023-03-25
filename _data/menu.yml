@@ -19,9 +19,6 @@ main:
   - name: About
     url: /about/
     weight: 5
-  - name: Partners
-    url: /partners/
-    weight: 5
 footer_primary:
   - name: Home
     url: /

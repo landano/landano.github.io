@@ -2,6 +2,7 @@
 layout: post
 title: Landano comes to Mozambique
 date: '2022-05-17 21:15:06'
+categories: ["Mozambique", "Project"]
 image: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
 thumbnail: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
 tags:

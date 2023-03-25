@@ -6,18 +6,18 @@ weight: 1
 header_transparent: true
 fa_icon: "fa-light fa-dollar-sign"
 icon: false
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+thumbnail: "/assets/images/gen/home/areal-new-old.webp"
+image: "/assets/images/gen/home/areal-new-old.webp"
 
 hero:
   enabled: true
   heading: "Digital Buy/Sell Process"
   sub_heading: "Streamline your property transactions with our digital buy/sell process"
   text_color: "#ffffff"
-  background_color: ""
+  background_color: "#1d2830"
   background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-3.webp"
+  background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -33,40 +33,24 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# The Future of Property Transactions
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Welcome to the future of property transactions! With the power of web3 and blockchain technologies, buying and selling property has never been more streamlined, secure, and efficient. Our platform offers a revolutionary digital buy/sell process that is already in existence, making it a game-changer for investors and property owners alike.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Transparent and Secure Transactions
 
-## What is Web Design?
+Gone are the days of complicated and time-consuming transactions involving intermediaries and manual paperwork. With our platform, property owners can easily list their properties on our decentralized marketplace and provide all relevant information to potential buyers in a clear and transparent manner. Buyers can view the property details and verify the authenticity and ownership of the property using blockchain technology.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## Smart Contract System
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+Our platform offers a smart contract system that allows buyers and sellers to enter into a self-executing digital contract containing all the terms of the transaction. The blockchain technology ensures that all parties are able to view the contract and that it is transparent and secure. This means no more worrying about missing documents or hidden fees!
 
-## Front-end Development
+## Secure Investment Opportunities
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+Investors can trust our platform as we have integrated the highest levels of security and compliance standards, ensuring that all transactions are conducted with the utmost transparency and protection. With our platform, investors can invest in real estate properties with confidence, knowing that their investments are backed by blockchain technology.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+## Hassle-Free Experience
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+We take care of all the legal documentation, title transfers, and property deeds required for the transaction to take place, making it a hassle-free experience for all parties involved. The blockchain technology allows for seamless and secure handling of all paperwork and documentation, ensuring a fast and efficient transaction.
 
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Join the future of property transactions today and experience the benefits of our revolutionary platform. With our digital buy/sell process, you can save time and money, while enjoying a secure and transparent transaction. Whether you're a property owner or an investor, our platform offers a revolutionary solution that is already in existence and changing the way we buy and sell real estate.

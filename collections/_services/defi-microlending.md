@@ -6,18 +6,18 @@ weight: 3
 header_transparent: true
 fa_icon: "fa-light fa-hand-holding-dollar"
 icon: false
-thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
-image: "/assets/images/gen/services/service-6.webp"
+thumbnail: "/assets/images/gen/home/areal-new-old.webp"
+image: "/assets/images/gen/home/areal-new-old.webp"
 
 hero:
   enabled: true
   heading: "DeFi Microlending"
   sub_heading: "Empower smallholder farmers with decentralized microlending"
   text_color: "#fff"
-  background_color: ""
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

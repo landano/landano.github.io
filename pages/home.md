@@ -60,7 +60,7 @@ intro:
         fa_icon: "fas fa-check"
       - text: "RealFi primitives for mortgages, loans, and leases"
         fa_icon: "fas fa-check"
-      - text: "Piloting in Ghana, Mozambique, and KenyaÌ"
+      - text: "Piloting in Ghana, Mozambique, and Kenya"
         fa_icon: "fas fa-check"
   buttons:
     enabled: true

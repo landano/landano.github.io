@@ -11,9 +11,9 @@ hero:
   heading: "Projects"
   sub_heading: "Our portfolio of work and projects."
   text_color: "#FFFFFF"
-  background_color: ""
-  background_gradient: true
-  background_image: false
+  background_color: "#1d2830"
+  background_gradient: false
+  background_image: "/assets/images/gen/projects/project-header-resized_1920px.webp"
   background_image_blend_mode: overlay
   fullscreen_mobile: false
   fullscreen_desktop: false

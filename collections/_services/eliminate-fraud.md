@@ -6,18 +6,18 @@ weight: 4
 header_transparent: true
 fa_icon: "fa-light fa-shield-check"
 icon: false
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+thumbnail: "/assets/images/gen/home/areal-new-old.webp"
+image: "/assets/images/gen/home/areal-new-old.webp"
 
 hero:
   enabled: true
   heading: "Eliminate Fraud"
   sub_heading: "Protect your property from fraudulent activities with our solution"
   text_color: "#ffffff"
-  background_color: ""
-  background_gradient: true
+  background_color: "#1d2830"
+  background_gradient: false
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -33,40 +33,24 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Eliminating Fraud with Our Secure Land Record Solution
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+The traditional process of managing land records can be susceptible to fraud and corruption. At our platform, we understand the importance of a secure and trustworthy system for property owners in Africa. That's why we've built a solution that leverages blockchain technology to eliminate the risk of fraud.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Immutable and Auditable Land Records
 
-## What is Web Design?
+One of the key features of our solution is the use of blockchain technology to create NFT (Non-Fungible Token) documents that are immutable and auditable. This means that once a land record is notarized on the Cardano blockchain, it cannot be altered or deleted. The decentralized nature of blockchain technology also means that there is no central authority that can tamper with the records, providing an extra layer of security and trust.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## Background Checks and Verification
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+We also conduct thorough background checks and verification processes to ensure that the individuals involved in the land ownership transfer are legitimate and authorized. Our team works diligently to verify the identity of the current landowner and the property itself, ensuring that all information provided is accurate and reliable.
 
-## Front-end Development
+## Transparency and Shared Ledger
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+Our platform also provides transparency and a shared ledger system that allows all parties involved to have access to the same information. This eliminates the possibility of misinformation or hidden details that can lead to fraud. Additionally, the shared ledger system allows for real-time updates, providing a clear and up-to-date picture of the land ownership status.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+## Secure Transfer of Ownership
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+Our solution also includes a secure transfer of ownership process that is conducted through the platform. The smart contract created between the buyer and seller outlines all the necessary terms and conditions of the sale, including the purchase price and any contingencies that must be met. Once all conditions have been met, ownership is transferred securely and transparently through the platform, with all necessary documentation handled digitally.
 
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+At our platform, we are committed to providing a secure and trustworthy system for managing land records in Africa. Our solution eliminates the risk of fraud and corruption, providing property owners with peace of mind and security for their valuable assets.
