@@ -17,6 +17,9 @@
           localStorage.getItem('darkMode') === 'true' && document.documentElement.setAttribute('data-mode', 'dark');
       </script>
     {% endif %}
+    {% if jekyll.environment == 'production' %}
+    {% include /tracking/hubspot.html %}
+    {% endif %}
     <script src="https://kit.fontawesome.com/cfecb7d7b7.js" crossorigin="anonymous"></script>
 
   </head>
