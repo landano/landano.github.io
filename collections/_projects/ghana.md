@@ -13,11 +13,11 @@ hero:
   heading: "Ghana"
   sub_heading: "Revolutionizing Land Management in Ghana with Digital Solutions"
   text_color: "#FFFFFF"
-  background_color: ""
+  background_color: "#1d2830"
   background_gradient: false
-  background_image: "/assets/images/gen/projects/projects-ghana-large.webp"
-  background_image_blend_mode: false
-  fullscreen_mobile: false
+  background_image: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  fullscreen_mobile: true
   fullscreen_desktop: false
   height: "600px"
   buttons:
@@ -31,47 +31,44 @@ hero:
         outline: true
         style: "primary"
 ---
+# Introducing the Landano project
 
-## A spectacular building, designed by the Valencian architect Santiago Calatrava, dedicated to promoting the performing arts.
+The Landano project is launching with a pilot project in Ghana, Africa. The Landano mission is to provide economic mobility to marginalized people through better access to land administration systems. Having reliable proof of property rights will provide tenant farmers in rural Ghana with the confidence to invest in their land and improve its yields. It also improves access to financial services like mortgages, loans, and decentralized finance.
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
+Ghana is home to 31 million people. It spans from coastal savannas to tropical rain forests and it is rich in natural resources. Ghana has been one of the more stable and democratic countries in West Africa. It has played a major role in inter-continental trade for many centuries and was the first sub-Saharan country to gain its national independence.
 
-Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Prior to colonial rule, the land in the area now known as Ghana was governed by customary law and vested in traditional institutions referred to as stools or skins, family and similar kinship groups. The stool represents the spiritual and physical embodiment of the people. It is regarded as an immortal entity.
+![Ghana Ceremony](/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg)
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-3-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## The legal framework
 
-## History
+The legal framework for land administration in Ghana is prescribed in its 1992 Constitution and the 2020 Land Law (Act 1036). These laws legitimize traditional land right holders such as stools, skins, clans, and families. Their customary laws operate alongside formal constitutional law in Ghana's plural legal environment.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Stool lands are estimated to constitute about 80% of land holdings in Ghana. This land is held in trust by the head of the community for the entire members of the community, clan or family in the belief that land is owned by the dead, living and those yet unborn. Within this traditional Ghanaian society, land is a spiritual entity that transcends the material realm.
 
-> Designing affordable units within the existing water works area required an extensive site survey and ground testing.
+These practices are in contrast to a bureaucratic framework for land management that includes strictly defined geo-spatial data, legal documentation, and digital technologies. Like most modern nations, Ghana has been improving its land registry and cadastral systems over the recent decades, including a recent push towards digitization and electronic conveyancing.
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+In the meanwhile, Ghana continues to experience a number of systemic problems around land tenure security, including:
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-3-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+- Fraudulent sale or registration of land parcels
+- Failure to formalize and register leaseholds
+- Uncertain tenant farmer agreements
+- Poorly coordinated land administration systems
 
-## Example
+## Solution
 
-There are several different versions of markdown
+The Landano team believes that these issues can be improved by introducing its higher-quality, blockchain-based records management for land administration using sustainable web3 software.
 
-### CommonMark
+Ghana's 2020 Land Law establishes Customary Land Secretariats for administering stool lands. It requires community leaders to take on fiduciary responsibilities and comply with documentation procedures. Landano can assist community leaders with fullfilling these recordkeeping duties, including management of commission and service fees. It can also help individual land users by facilitating land transactions and providing up-to-date, trustworthy land parcel information that makes it clear what their rights are.
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+![Ghana Ceremony](/assets/ghost/images/2022/03/IMG_1680_graded.JPG)
 
-### GitHub Flavored Markdown (GFM)
+Landano has begun its pilot project work in March 2022 with community outreach in rural Ashanti outside Kumasi. We have made site visits to discuss the needs of local land administrators as well as tenant farmers. We are now working on documenting these user stories to drive our product design decisions.
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+## Land administration and requirements
 
-### Markdown Extra
+Like every sovereign nation, Ghana has its own land administration laws and its own unique customs and procedures. Landano is designed to work across jurisdictions and legal traditions by starting with a generic domain model for land administration.
+![Landano Requirements Analysis](/assets/ghost/images/2022/03/Landano---requirements-analysis-v3.jpg)
 
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
+This model helps to structure the documents and data that Landano manages. The fields and labels on its user interface can be customized to be more context-sensitive to a particular country, registry tradition, language, etc.. We are also working on adding geo-spatial unit data to Landano and sharing it as an Open Cadastral Map. We will provide more details on these technical developments in an upcoming post.
 
-Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations

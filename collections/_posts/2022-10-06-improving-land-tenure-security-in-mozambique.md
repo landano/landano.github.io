@@ -9,7 +9,7 @@ tags:
 - blog
 ---
 
-_If communities mapped their own territories, would land disputes decrease? Does land tenure security improve economic opportunities within marginalized societies? How do trustworthy, reliable land right records empower people?_   
+> If communities mapped their own territories, would land disputes decrease? Does land tenure security improve economic opportunities within marginalized societies? How do trustworthy, reliable land right records empower people?
   
 These key research questions are being answered through the pioneering work done by a Landano partner in Mozambique.
 
