@@ -4,8 +4,8 @@ description: "Revolutionizing Land Management in Ghana with Digital Solutions"
 date: 2022-11-11
 weight: 1
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/projects-ghana-large.webp"
-image: "/assets/images/gen/projects/projects-ghana-large.webp"
+thumbnail: "assets/images/gen/projects/Accra-Ghana_1920px.webp"
+image: "assets/images/gen/projects/Accra-Ghana_1920px.webp"
 client: "Region of Valencia"
 
 hero:
