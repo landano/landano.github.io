@@ -50,6 +50,8 @@ body_classes: page-contact
       <div class="col-12 col-lg-8">
         {% if site.contact_form.use_netlify_form %}
           {% include framework/global/forms/form-contact-netlify.html %}
+        {% elsif site.contact_form.use_hubspot_form %}
+          {% include framework/global/forms/form-contact-hubspot.html %}
         {% elsif site.contact_form.use_formspree_form and site.contact_form.formspree_endpoint %}
           {% include framework/global/forms/form-contact-formspree.html %}
         {% endif %}

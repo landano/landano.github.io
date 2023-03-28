@@ -45,17 +45,3 @@ footer_secondary:
   - name: Investors
     url: /Investors/
     weight: 4
-footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
-bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 4

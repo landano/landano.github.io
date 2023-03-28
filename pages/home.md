@@ -92,8 +92,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: Transform Your Land Administration with Landano
+  sub_heading: "Empower Communities and Secure Property Rights Today"
   features:
     enabled: false
     list:

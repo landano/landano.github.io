@@ -6,7 +6,7 @@
     @include media-breakpoint-up(md) {
       width: auto;
       max-width: 120px;
-      max-height: 50px;
+      max-height: 100px;
     }
     html[data-mode="dark"] & {
       filter: grayscale(100%) invert(100%);
