@@ -15,7 +15,7 @@ We have teamed up with [Terra Firma](https://www.linkedin.com/company/terra-firm
 
 <figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/DAI0DKfxvE8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
-Using the Fund 8 Project Catalyst grant, we will work with Terra Firma to import their land records into the Landano decentralized system. The records will be notarized as Cardano NFTs, the geospatial data will be made available on our Open Cadastral Map site, and the source documents will be packaged, archived and stored on web3 decentralized storage according to archives and record-keeping best practices and standards.
+Using the Fund 8 Project Catalyst grant, we will work with Terra Firma to import their land records into the Landano decentralized system. The records will be notarized as Cardano NFTs, the geospatial data will be made available via our platform, and the source documents will be packaged, archived and stored on web3 decentralized storage according to archives and record-keeping best practices and standards.
 
 Landano will provide a convenient interface to this data and the related business processes. However, true to web3 principles, all Landano data is self-sovereign and will remain forever accessible to end-users whether they decide to continue to use the Landano interface and services or not. Of course, private data is encrypted and only accessible to the data owner and anyone else they decide to provide access to.
 

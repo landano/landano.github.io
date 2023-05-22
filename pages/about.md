@@ -26,7 +26,7 @@ hero:
 
 # Revolutionizing Land Record Management with Landano
 
-Landano is revolutionizing the way real estate property owners manage their land records with a user-friendly, decentralized app (dApp) and an innovative initiative called the Open Cadastral Map. Our platform offers a true “RealFi” solution for property owners in Africa that has been tailored to meet the specific needs of the continent. Our on-the-ground pilot projects in Ghana, Mozambique, and Kenya have given us unique insights into the challenges faced by real estate owners in Africa, and we have used this knowledge to build a solution that truly meets their needs.
+Landano is revolutionizing the way real estate property owners manage their land records with a user-friendly, decentralized app (dApp). Our platform offers a true “RealFi” solution for property owners in Africa that has been tailored to meet the specific needs of the continent. Our on-the-ground pilot projects in Ghana, Mozambique, and Kenya have given us unique insights into the challenges faced by real estate owners in Africa, and we have used this knowledge to build a solution that truly meets their needs.
 
 ## Streamlined and Secure Land Record Management
 

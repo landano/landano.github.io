@@ -70,5 +70,5 @@ Landano has begun its pilot project work in March 2022 with community outreach i
 Like every sovereign nation, Ghana has its own land administration laws and its own unique customs and procedures. Landano is designed to work across jurisdictions and legal traditions by starting with a generic domain model for land administration.
 ![Landano Requirements Analysis](/assets/ghost/images/2022/03/Landano---requirements-analysis-v3.jpg)
 
-This model helps to structure the documents and data that Landano manages. The fields and labels on its user interface can be customized to be more context-sensitive to a particular country, registry tradition, language, etc.. We are also working on adding geo-spatial unit data to Landano and sharing it as an Open Cadastral Map. We will provide more details on these technical developments in an upcoming post.
+This model helps to structure the documents and data that Landano manages. The fields and labels on its user interface can be customized to be more context-sensitive to a particular country, registry tradition, language, etc.. We are also working on adding geo-spatial unit data to Landano and sharing it via our platform. We will provide more details on these technical developments in an upcoming post.
 

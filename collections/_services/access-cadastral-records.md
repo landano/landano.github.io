@@ -41,10 +41,6 @@ Accessing cadastral records can be a complicated and time-consuming process, par
 
 Our platform features a user-friendly interface that allows property owners to easily access and manage their cadastral records. Our solution is designed with the needs of property owners in mind, and we have developed an interface that is intuitive and easy to navigate.
 
-## Open Cadastral Map
-
-Our platform also includes an innovative initiative called the Open Cadastral Map. This map provides property owners with access to up-to-date cadastral information, allowing them to easily view and manage their land records. The Open Cadastral Map is constantly updated, providing property owners with the necessary information to make informed decisions about their land tenure rights.
-
 ## Standards-Based Record-Keeping Features
 
 Our platform includes standards-based record-keeping features that allow property owners to easily manage their land records. This includes mortgages, business loans, leases, and more. Our solution ensures that all records are up-to-date and organized, providing property owners with the necessary information to manage their land effectively.
