@@ -1,7 +1,7 @@
 ---
-title: Presentations and interviews
-date: 2023-01-30 22:55:51 Z
 layout: post
+title: Presentations and interviews
+date: "2023-01-30 22:55:51"
 image: "/assets/ghost/images/2023/01/Fnk7MwAWIAAGMeo.jpeg"
 thumbnail: "/assets/ghost/images/2023/01/Fnk7MwAWIAAGMeo.jpeg"
 ---

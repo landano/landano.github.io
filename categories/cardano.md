@@ -1,5 +1,4 @@
 ---
-title: Cardano
 layout: category
+title: Cardano
 ---
-

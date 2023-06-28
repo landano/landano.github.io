@@ -1,21 +1,22 @@
 ---
-title: Digital Land Right Transfer
-date: 2021-07-23 00:00:00 Z
-description: Simplify land ownership transfer with our digital platform
+title: "Digital Land Right Transfer"
+description: "Simplify land ownership transfer with our digital platform"
+date: 2021-07-23
 weight: 2
 header_transparent: true
-fa_icon: fa-light fa-handshake-simple
+fa_icon: "fa-light fa-handshake-simple"
 icon: false
 thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
+
 hero:
   enabled: true
-  heading: Digital Land Right Transfer
-  sub_heading: Simplify land ownership transfer with our digital platform
+  heading: "Digital Land Right Transfer"
+  sub_heading: "Simplify land ownership transfer with our digital platform"
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: overlay
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: /assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -23,13 +24,13 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: false
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: false
+        style: "primary"
 ---
 
 # Simplify Land Ownership Transfer with Digital Land Right Transfer

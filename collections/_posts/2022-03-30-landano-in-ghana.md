@@ -1,7 +1,7 @@
 ---
-title: Landano starts in Ghana
-date: 2022-03-30 20:45:01 Z
 layout: post
+title: Landano starts in Ghana
+date: '2022-03-30 20:45:01'
 image: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
 thumbnail: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
 tags:

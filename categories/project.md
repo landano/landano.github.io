@@ -1,5 +1,4 @@
 ---
-title: Project
 layout: category
+title: Project
 ---
-

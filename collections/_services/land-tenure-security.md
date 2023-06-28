@@ -1,21 +1,22 @@
 ---
-title: Land Tenure Security
-date: 2018-11-28 05:15:34 Z
-description: Ensure secure and stable land tenure with our innovative system
+title: "Land Tenure Security"
+description: "Ensure secure and stable land tenure with our innovative system"
+date: 2018-11-28T15:15:34+10:00
 weight: 5
 header_transparent: true
-fa_icon: fa-light fa-house-circle-check
+fa_icon: "fa-light fa-house-circle-check"
 icon: false
 thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
+
 hero:
   enabled: true
-  heading: Land Tenure Security
-  sub_heading: Ensure secure and stable land tenure with our innovative system
+  heading: "Land Tenure Security"
+  sub_heading: "Ensure secure and stable land tenure with our innovative system"
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: overlay
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -23,13 +24,13 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: false
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: false
+        style: "primary"
 ---
 
 # Ensuring Land Tenure Security with Our Solution

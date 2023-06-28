@@ -1,21 +1,22 @@
 ---
-title: DeFi Microlending
-date: 2019-10-03 00:00:00 Z
-description: Empower smallholder farmers with decentralized microlending
+title: "DeFi Microlending"
+description: "Empower smallholder farmers with decentralized microlending"
+date: 2019-10-03
 weight: 3
 header_transparent: true
-fa_icon: fa-light fa-hand-holding-dollar
+fa_icon: "fa-light fa-hand-holding-dollar"
 icon: false
 thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
+
 hero:
   enabled: true
-  heading: DeFi Microlending
-  sub_heading: Empower smallholder farmers with decentralized microlending
+  heading: "DeFi Microlending"
+  sub_heading: "Empower smallholder farmers with decentralized microlending"
   text_color: "#fff"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: overlay
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -23,13 +24,13 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: false
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: false
+        style: "primary"
 ---
 
 # Creating Modern Websites

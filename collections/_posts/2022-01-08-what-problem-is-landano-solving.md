@@ -1,7 +1,7 @@
 ---
-title: What problem is Landano solving?
-date: 2022-01-08 00:36:01 Z
 layout: post
+title: What problem is Landano solving?
+date: '2022-01-08 00:36:01'
 thumbnail: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
 image: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
 tags:

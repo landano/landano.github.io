@@ -1,21 +1,22 @@
 ---
-title: Access Cadastral Records
-date: 2017-11-28 05:14:54 Z
-description: Easily access and manage cadastral records with our platform
+title: "Access Cadastral Records"
+description: "Easily access and manage cadastral records with our platform"
+date: 2017-11-28T15:14:54+10:00
 weight: 6
 header_transparent: true
-fa_icon: fa-light fa-map-location-dot
+fa_icon: "fa-light fa-map-location-dot"
 icon: false
 thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
+
 hero:
   enabled: true
-  heading: Access Cadastral Records
-  sub_heading: Easily access and manage cadastral records with our platform
+  heading: "Access Cadastral Records"
+  sub_heading: "Easily access and manage cadastral records with our platform"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: overlay
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -23,13 +24,13 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: false
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: false
+        style: "primary"
 ---
 
 # Accessing Cadastral Records with Our Platform

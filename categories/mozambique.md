@@ -1,5 +1,4 @@
 ---
-title: Mozambique
 layout: category
+title: Mozambique
 ---
-

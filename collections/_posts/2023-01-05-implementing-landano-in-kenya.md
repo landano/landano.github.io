@@ -1,8 +1,8 @@
 ---
-title: Implementing Landano in Kenya
-date: 2023-01-05 13:00:21 Z
 layout: post
+title: Implementing Landano in Kenya
 featured: true
+date: '2023-01-05 13:00:21'
 image: "/assets/ghost/images/2023/01/photo-1547471080-7cc2caa01a7e.jpg"
 thumbnail: "/assets/ghost/images/2023/01/photo-1547471080-7cc2caa01a7e.jpg"
 tags:

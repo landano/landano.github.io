@@ -1,21 +1,22 @@
 ---
-title: Digital Buy/Sell Process
-date: 2023-03-12 00:00:00 Z
-description: Streamline your property transactions with our digital buy/sell process
+title: "Digital Buy/Sell Process"
+description: "Streamline your property transactions with our digital buy/sell process"
+date: 2023-03-12
 weight: 1
 header_transparent: true
-fa_icon: fa-light fa-dollar-sign
+fa_icon: "fa-light fa-dollar-sign"
 icon: false
 thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
+
 hero:
   enabled: true
-  heading: Digital Buy/Sell Process
-  sub_heading: Streamline your property transactions with our digital buy/sell process
+  heading: "Digital Buy/Sell Process"
+  sub_heading: "Streamline your property transactions with our digital buy/sell process"
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false
-  background_image_blend_mode: overlay
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/home/areal-new-old.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -23,13 +24,13 @@ hero:
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: false
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: false
+        style: "primary"
 ---
 
 # The Future of Property Transactions

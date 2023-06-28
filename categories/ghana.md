@@ -1,5 +1,4 @@
 ---
-title: Ghana
 layout: category
+title: Ghana
 ---
-

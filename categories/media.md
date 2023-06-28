@@ -1,5 +1,4 @@
 ---
-title: Media
 layout: category
+title: Media
 ---
-

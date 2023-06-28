@@ -1,7 +1,7 @@
 ---
-title: Improving land records to fight poverty
-date: 2022-09-04 18:06:34 Z
 layout: post
+title: Improving land records to fight poverty
+date: '2022-09-04 18:06:34'
 image: "/assets/ghost/images/2022/09/the-artboard-VY5Gpwyl8O4-unsplash.jpg"
 thumbnail: "/assets/ghost/images/2022/09/the-artboard-VY5Gpwyl8O4-unsplash.jpg"
 tags:

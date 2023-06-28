@@ -1,5 +1,4 @@
 ---
-title: Development
 layout: category
+title: Development
 ---
-

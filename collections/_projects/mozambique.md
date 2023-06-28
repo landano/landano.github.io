@@ -1,37 +1,36 @@
 ---
-title: Mozambique
-date: 2022-11-11 00:00:00 Z
-description: Simplify Property Transactions and Secure Your Property Rights with Us
+title: "Mozambique"
+description: "Simplify Property Transactions and Secure Your Property Rights with Us"
+date: 2022-11-11
 weight: 2
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-mozambique-large.webp"
 image: "/assets/images/gen/projects/project-mozambique-large.webp"
-client: Hi
+client: "Hi"
+
 hero:
   enabled: true
-  heading: Mozambique
-  sub_heading: Simplify Property Transactions and Secure Your Property Rights with
-    Us
+  heading: "Mozambique"
+  sub_heading: "Simplify Property Transactions and Secure Your Property Rights with Us"
   text_color: "#FFFFFF"
-  background_color: ''
+  background_color: ""
   background_gradient: false
   background_image: "/assets/images/gen/projects/project-mozambique-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: 600px
+  height: "600px"
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: true
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: true
+        style: "primary"
 ---
-
 # Mozambique & the CaVaTeCo System
 
 > If communities mapped their own territories, would land disputes decrease? Does land tenure security improve economic opportunities within marginalized societies? How do trustworthy, reliable land right records empower people?

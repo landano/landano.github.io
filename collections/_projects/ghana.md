@@ -1,36 +1,36 @@
 ---
-title: Ghana
-date: 2022-11-11 00:00:00 Z
-description: Revolutionizing Land Management in Ghana with Digital Solutions
+title: "Ghana"
+description: "Revolutionizing Land Management in Ghana with Digital Solutions"
+date: 2022-11-11
 weight: 1
 header_transparent: true
-thumbnail: assets/images/gen/projects/Accra-Ghana_1920px.webp
-image: assets/images/gen/projects/Accra-Ghana_1920px.webp
-client: Region of Valencia
+thumbnail: "assets/images/gen/projects/Accra-Ghana_1920px.webp"
+image: "assets/images/gen/projects/Accra-Ghana_1920px.webp"
+client: "Region of Valencia"
+
 hero:
   enabled: true
-  heading: Ghana
-  sub_heading: Revolutionizing Land Management in Ghana with Digital Solutions
+  heading: "Ghana"
+  sub_heading: "Revolutionizing Land Management in Ghana with Digital Solutions"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
   background_image: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
-  background_image_blend_mode: overlay
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: 600px
+  height: "600px"
   buttons:
     enabled: false
     list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: true
-      style: primary
+      - text: "Buy Now"
+        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+        external: true
+        fa_icon: false
+        size: large
+        outline: true
+        style: "primary"
 ---
-
 # Introducing the Landano project
 
 The Landano project is launching with a pilot project in Ghana, Africa. The Landano mission is to provide economic mobility to marginalized people through better access to land administration systems. Having reliable proof of property rights will provide tenant farmers in rural Ghana with the confidence to invest in their land and improve its yields. It also improves access to financial services like mortgages, loans, and decentralized finance.
