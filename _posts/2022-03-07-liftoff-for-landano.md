@@ -1,11 +1,11 @@
 ---
 title: Liftoff for Landano!
 date: 2022-03-07 20:11:40 Z
+tags:
+- blog
 layout: post
 image: "/assets/ghost/images/2022/03/file-2.png"
 thumbnail: "/assets/ghost/images/2022/03/file-2.png"
-tags:
-- blog
 ---
 
 We were awarded a seed funding round by Cardano's Project Catalyst. Our project [team](https://landano.io/team/) has jumped into action to start delivering on the Landano [roadmap]( __GHOST_URL__ /roadmap/) over the coming months.

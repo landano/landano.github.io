@@ -1,12 +1,12 @@
 ---
 title: What problem is Landano solving?
 date: 2022-01-08 00:36:01 Z
-layout: post
-thumbnail: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
-image: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
 tags:
 - faq
 - blog
+layout: post
+thumbnail: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
+image: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
 ---
 
 Marginalized people may own land but they lack financial capital. If they do not have authentic land title deeds that prove their ownership, then they cannot use their real estate property as a stepping stone into the traditional financial system. It is estimated that up to 1 billion legitimate land owners around the world do not hold legal title documentation for their own property.

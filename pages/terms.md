@@ -1,8 +1,8 @@
 ---
-title: "Terms and Conditions"
-date: 2021-24-01
-layout: basic
+title: Terms and Conditions
+date: 1970-01-01 00:00:00 Z
 permalink: "/terms-and-conditions/"
+layout: basic
 ---
 
 Please read these terms and conditions carefully before using Our Service.

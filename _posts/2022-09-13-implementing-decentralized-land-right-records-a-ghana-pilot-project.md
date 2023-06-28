@@ -1,11 +1,11 @@
 ---
 title: Implementing Landano in Ghana
 date: 2022-09-13 23:24:41 Z
+tags:
+- blog
 layout: post
 image: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
 thumbnail: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
-tags:
-- blog
 ---
 
 Landano is a decentralized application (dApp) that mints land right records as non-fungible tokens (NFTs) on the [Cardano](https://cardano.org) blockchain. Landano works in compliance with international record-keeping standards and local land laws. The goal is to enable new decentralized finance (DeFi) opportunities for formerly undocumented rights-holders.   

@@ -1,16 +1,16 @@
 ---
 title: What does Landano do?
 date: 2022-01-08 00:45:18 Z
-layout: post
-featured: true
 categories:
 - Development
 - Cardano
-image: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
-thumbnail: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
 tags:
 - faq
 - blog
+layout: post
+featured: true
+image: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
+thumbnail: "/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-2.32.26-PM.png"
 ---
 
 Landano allows property owners to create legally-binding title deeds for their land via an easy-to-use, decentralized app ([DApp](https://www.ledger.com/academy/what-is-a-dapp)). The title deeds and supporting documents are notarized on the [Cardano]( __GHOST_URL__ /why-the-cardano-blockchain/) blockchain. A non-fungible token ([NFT](https://www.merriam-webster.com/dictionary/non-fungible%20token)) is generated for each registered land title. Using a shared, auditable ledger like the Cardano blockchain improves transparency and prevents fraud by demonstrating that only one legitimate deed exists per registered property.

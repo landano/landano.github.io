@@ -1,49 +1,25 @@
 ---
-title: Mozambique
-date: 2022-11-11 00:00:00 Z
-description: Simplify Property Transactions and Secure Your Property Rights with Us
-weight: 2
-header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-mozambique-large.webp"
-image: "/assets/images/gen/projects/project-mozambique-large.webp"
-client: Hi
-hero:
-  enabled: true
-  heading: Mozambique
-  sub_heading: Simplify Property Transactions and Secure Your Property Rights with
-    Us
-  text_color: "#FFFFFF"
-  background_color: ''
-  background_gradient: false
-  background_image: "/assets/images/gen/projects/project-mozambique-large.webp"
-  background_image_blend_mode: false
-  fullscreen_mobile: false
-  fullscreen_desktop: false
-  height: 600px
-  buttons:
-    enabled: false
-    list:
-    - text: Buy Now
-      url: https://www.zerostatic.io/theme/jekyll-advance/
-      external: true
-      fa_icon: false
-      size: large
-      outline: true
-      style: primary
+title: Improving Land Security in Mozambique
+date: 2022-10-06 17:13:22 Z
+tags:
+- blog
+layout: post
+featured: true
+image: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
+thumbnail: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
 ---
-
-# Mozambique & the CaVaTeCo System
 
 > If communities mapped their own territories, would land disputes decrease? Does land tenure security improve economic opportunities within marginalized societies? How do trustworthy, reliable land right records empower people?
   
 These key research questions are being answered through the pioneering work done by a Landano partner in Mozambique.
 
+## The CaVaTeCo System
 
 Terra Firma is a land-based consultant group based in Mozambique that has developed the Community Land Value Chain (CaVaTeCo) system to equip communities with the ability to map and document ownership of land and natural resources (Landano, 2022).   
   
 The CaVaTeCo approach utilizes inexpensive tools, like handheld GPS devices and open-source GIS software to encourage community members to engage with the mapping of their traditional lands (Terra Firma, 2018).
 
-{% include framework/shortcodes/youtube.html id='DAI0DKfxvE8' %}
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/DAI0DKfxvE8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="A People's Cadastre in Mozambique"></iframe></figure>
 
 This innovative project uses a bottom-up approach to land governance and property rights for individuals living in rural areas. This makes it a perfect match for Landano’s own methodology and tools which are now being integrated to add blockchain notarization and DeFi access to CaVaTeCo.  
   
@@ -53,15 +29,14 @@ The Land law of 1997 enables community-declared right declarations (DUATs). Thes
 
 To connect these DUATs and the corresponding parcels of land to DeFi opportunities, they will be minted on the Cardano blockchain as non-fungible tokens (NFT) using the Landano platform.
 
-![Mozambique DUATs](/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png)
-
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png" class="kg-image" alt loading="lazy" width="2000" height="941" srcset="/assets/ghost/images/size/w600/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png 600w,/assets/ghost/images/size/w1000/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png 1000w,/assets/ghost/images/size/w1600/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png 1600w,/assets/ghost/images/size/w2400/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png 2400w" sizes="(min-width: 720px) 720px"></figure>
 ### Problems with the current system
 
 Mozambican government agencies and private companies view communities as participants in land management and administration but not as rights-holders (Meij, 2022). This is problematic for individuals seeking to express autonomy over their land and securing opportunities for economic mobility.  
   
 The rural population of Mozambique includes over twenty million people, ninety-five percent of whom live and farm on land which remains unmapped and undocumented (Tabary, 2018). This creates inherent challenges to proper allocation of land, documentation of land transfers, and equitable distribution of natural resources. Often, individuals living in these areas are unable to access the national land administration system due to the remoteness and cost of travel to government land offices, unaffordable fees for various agents and processes, and a range of &nbsp;bureaucratic and I.C.T. shortcomings.
 
-![mozambique map](/assets/ghost/images/2022/10/14961795499_8f2c7f4726_k-1.jpg)
+<figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/10/14961795499_8f2c7f4726_k-1.jpg" class="kg-image" alt loading="lazy" width="2000" height="1331" srcset="/assets/ghost/images/size/w600/2022/10/14961795499_8f2c7f4726_k-1.jpg 600w,/assets/ghost/images/size/w1000/2022/10/14961795499_8f2c7f4726_k-1.jpg 1000w,/assets/ghost/images/size/w1600/2022/10/14961795499_8f2c7f4726_k-1.jpg 1600w,/assets/ghost/images/2022/10/14961795499_8f2c7f4726_k-1.jpg 2047w" sizes="(min-width: 720px) 720px"></figure>
 
 Currently, for most villages throughout Mozambique, land and farms are passed down through family or via informal agreements of land transfers, which are rarely documented (World Bank, 2014). These informal agreements around land management and administration can lead to violence if there is a dispute.   
   

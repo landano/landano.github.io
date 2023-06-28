@@ -1,14 +1,14 @@
 ---
 title: Landano comes to Mozambique
 date: 2022-05-17 21:15:06 Z
-layout: post
 categories:
 - Mozambique
 - Project
-image: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
-thumbnail: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
 tags:
 - blog
+layout: post
+image: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
+thumbnail: "/assets/ghost/images/2022/05/Screen-Shot-2022-05-17-at-2.11.57-PM.png"
 ---
 
 Late last week the Landano team learned that we were awarded another [Cardano](https://cardano.org) [Project Catalyst](https://cardano.ideascale.com/) funding grant, this time for a pilot project in Mozambique.

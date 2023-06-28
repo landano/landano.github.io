@@ -1,14 +1,14 @@
 ---
 title: Launching on Cardano Mainnet
 date: 2022-08-14 17:24:26 Z
-layout: post
-image: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
 categories:
 - Cardano
 - Project
-thumbnail: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
 tags:
 - blog
+layout: post
+image: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
+thumbnail: "/assets/ghost/images/2022/08/Screen-Shot-2022-08-14-at-10.11.00-AM.png"
 ---
 
 The Landano project has been making incredible progress on the ground in Ghana and Mozambique. We have also accomplished major development milestones with the implementation of the Landano Minimum Viable Product (MVP) software on Cardano Testnet.  
