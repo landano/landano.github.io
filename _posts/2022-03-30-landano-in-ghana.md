@@ -1,11 +1,11 @@
 ---
 title: Landano starts in Ghana
 date: 2022-03-30 20:45:01 Z
+tags:
+- blog
 layout: post
 image: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
 thumbnail: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
-tags:
-- blog
 ---
 
 The Landano project is launching with a pilot project in Ghana, Africa. The Landano mission is to provide economic mobility to marginalized people through better access to land administration systems. Having reliable proof of property rights will provide tenant farmers in rural Ghana with the confidence to invest in their land and improve its yields. It also improves access to financial services like mortgages, loans, and decentralized finance.

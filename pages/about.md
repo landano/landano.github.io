@@ -1,27 +1,27 @@
 ---
-layout: basic
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
-header_transparent: false
+title: About Us
+date: 2018-11-28 05:15:34 Z
 permalink: "/about/"
-description: "Transforming Real Estate and Land Ownership in Africa through Blockchain Technology"
+layout: basic
+header_transparent: false
+description: Transforming Real Estate and Land Ownership in Africa through Blockchain
+  Technology
 image: "/assets/images/gen/content/content-5.webp"
-
 hero:
   enabled: false
-  heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  heading: About Us
+  sub_heading: Business plan hackathon handshake responsive web design.
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
   buttons:
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large
+    - text: Buy Now
+      url: https://www.zerostatic.io/theme/jekyll-advance/
+      external: true
+      fa_icon: false
+      size: large
 ---
 
 # Revolutionizing Land Record Management with Landano
