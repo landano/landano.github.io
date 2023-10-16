@@ -121,7 +121,7 @@ darkmode:
   show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
 analytics:
-  google_analytics_id: G-T4TGVCNL8F
+  google_analytics_id: 'G-T4TGVCNL8F'
 disqus:
   shortname: ''
 mailchimp:
