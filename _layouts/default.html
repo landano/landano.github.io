@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    {% include framework/global/seo/google-analytics.html %}
     <meta charset="utf-8">
     <meta content="ie=edge" http-equiv="x-ua-compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -24,7 +25,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   </head>
-  {% include framework/global/seo/google-analytics.html %}
+  
 <body class="page {% if page.body_classes %}{{ page.body_classes }}{% elsif layout.body_classes %}{{ layout.body_classes }}{% endif %}{% if site.header.fixed %} has-fixed-header{% else %} has-static-header{% endif %}">
 
 {% include framework/global/menu/menu-main-mobile.html %}
