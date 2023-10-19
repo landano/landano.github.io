@@ -1,14 +1,13 @@
 ---
+layout: post
 title: What problem is Landano solving?
 date: 2022-01-08 00:36:01 Z
-layout: post
-thumbnail: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
-image: "/assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg"
+image: /assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg
+thumbnail: /assets/ghost/images/2022/01/sincerely-media-kKfLvnhDmgQ-unsplash-1.jpg
 tags:
-- faq
-- blog
+  - faq
+  - blog
 ---
-
 Marginalized people may own land but they lack financial capital. If they do not have authentic land title deeds that prove their ownership, then they cannot use their real estate property as a stepping stone into the traditional financial system. It is estimated that up to 1 billion legitimate land owners around the world do not hold legal title documentation for their own property.
 
 This is a major blocker to their upward financial mobility as trustworthy deed documents can otherwise be used in applications for a bank account, credit score reports, mortgages, or lines-of-credit.
@@ -21,10 +20,10 @@ However, acquiring legally-binding land title deeds can be fraught with missteps
 
 <figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM.png" class="kg-image" alt loading="lazy" width="2000" height="820" srcset="/assets/ghost/images/size/w600/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM.png 600w,/assets/ghost/images/size/w1000/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM.png 1000w,/assets/ghost/images/size/w1600/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM.png 1600w,/assets/ghost/images/size/w2400/2022/01/Screen-Shot-2022-01-08-at-4.32.46-PM.png 2400w" sizes="(min-width: 720px) 720px"></figure>
 
-There have been other blockchain-based land registry projects. However, these have failed to bridge the gap between real world evidentiary requirements and authentic documents that no longer depend on a trusted third party or centralized servers. Landano is addressing this concern with its [innovative design]( __GHOST_URL__ /what-does-landano-do/).
+There have been other blockchain-based land registry projects. However, these have failed to bridge the gap between real world evidentiary requirements and authentic documents that no longer depend on a trusted third party or centralized servers. Landano is addressing this concern with its \[innovative design]( **GHOST_URL** /what-does-landano-do/).
 
 Another reason that other projects have stalled is because they were tested in jurisdictions that already had "good enough" land registry systems rather than jurisdictions where they could have the broadest positive impact.
 
-The Landano project will make land title registration as simple, cost-effective, and reliable as possible for those marginalized people who need it most. This will enable new economic opportunities like credit financing, rental income, and decentralized finance ([DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835)).
+The Landano project will make land title registration as simple, cost-effective, and reliable as possible for those marginalised people who need it most. This will enable new economic opportunities like credit financing, rental income, and decentralized finance ([DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835)).
 
 <figure class="kg-card kg-image-card"><img src="/assets/ghost/images/2022/01/vince-gx-ris47X8no4A-unsplash-1.jpg" class="kg-image" alt loading="lazy" width="2000" height="3238" srcset="/assets/ghost/images/size/w600/2022/01/vince-gx-ris47X8no4A-unsplash-1.jpg 600w,/assets/ghost/images/size/w1000/2022/01/vince-gx-ris47X8no4A-unsplash-1.jpg 1000w,/assets/ghost/images/size/w1600/2022/01/vince-gx-ris47X8no4A-unsplash-1.jpg 1600w,/assets/ghost/images/size/w2400/2022/01/vince-gx-ris47X8no4A-unsplash-1.jpg 2400w" sizes="(min-width: 720px) 720px"></figure>
