@@ -1,2 +1,8 @@
 @import 'framework';
 @import 'theme';
+
+#mc_embed_signup {
+    .button {
+        background-color: var(--color-primary) !important;
+    }
+}
