@@ -27,6 +27,9 @@ hero:
       outline: false
       style: light
 ---
+## WHAT IS PROJECT CATALYST?
+Project Catalyst is an innovative part of the Cardano blockchain, functioning as a community-driven fund and a platform for decentralized innovation. It allows ADA holders to propose, discuss, and vote on various projects aimed at improving and expanding the Cardano ecosystem. This democratic approach to governance and funding enables the Cardano community to directly influence the network's development. By participating in Project Catalyst, stakeholders can support initiatives that align with their vision for the blockchain, fostering a more vibrant and collaborative environment for growth and advancement within the Cardano ecosystem.
+
 ## THE THREE LANDANO FUND 11 CATALYST PROPOSALS
 ### <a href="https://cardano.ideascale.com/c/idea/112624" target="_blank">Cardano Mendix plug-in by the Landano team</a>
 
