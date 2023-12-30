@@ -2,7 +2,7 @@
 title: Dorus van der Kroft
 date: 2018-12-20 03:44:30 Z
 weight: 2
-description: Co-founder & Chief Technology Officer (CTO)
+description: Co-founder & Chief Technology Officer
 thumbnail: "/assets/images/team/dorus-van-der-kroft.png"
 image: "/assets/images/team/dorus-van-der-kroft.png"
 links:

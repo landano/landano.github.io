@@ -10,7 +10,7 @@ meta_title: Landano - Property Rights Secured
 hero:
   enabled: true
   heading: Property Rights Secured
-  sub_heading: For everyone
+  sub_heading: For <i>everyone</i>
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -47,13 +47,9 @@ intro:
   features:
     enabled: true
     list:
-    - text: Simplify land management with Landano's decentralized app
+    - text: <b>Local governments:</b> Manage entire communities or regions with the administrator dashboard. Increase transparency and trust by collecting taxes and fees, control ownership and use of individual plots, and see data for the entire community.
       fa_icon: fas fa-check
-    - text: Cardano blockchain ensures transparent and fraud-free land records
-      fa_icon: fas fa-check
-    - text: RealFi primitives for mortgages, loans, and leases
-      fa_icon: fas fa-check
-    - text: Piloting in Ghana, Mozambique, and Kenya
+    - text: <b>Individuals:</b> Be secure in your legally compliant land rights documentation! Generate documents as desired and use them as needed; also, see data for the entire community.
       fa_icon: fas fa-check
   buttons:
     enabled: true

@@ -1,7 +1,7 @@
 ---
-title: DeFi Microlending
+title: Access Financing
 date: 2019-10-03 00:00:00 Z
-description: Empower smallholder farmers with decentralized microlending
+description: Use your verified property’s value to secure a loan from our trusted partners (coming soon)
 weight: 3
 header_transparent: true
 fa_icon: fa-light fa-hand-holding-dollar
@@ -10,8 +10,8 @@ thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
 hero:
   enabled: true
-  heading: DeFi Microlending
-  sub_heading: Empower smallholder farmers with decentralized microlending
+  heading: Access Financing
+  sub_heading: Use your verified property’s value to secure a loan from our trusted partners (coming soon)
   text_color: "#fff"
   background_color: "#1d2830"
   background_gradient: false

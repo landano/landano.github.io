@@ -2,7 +2,7 @@
 title: Peter van Garderen
 date: 2018-12-20 03:44:30 Z
 weight: 1
-description: Co-founder & Chief Executive Officer (CEO)
+description: Co-founder & Chief Executive Officer
 thumbnail: "/assets/images/team/peter-van-garderen.png"
 image: "/assets/images/team/peter-van-garderen.png"
 links:

@@ -4,7 +4,7 @@ date: 2018-11-28 05:15:34 Z
 permalink: "/about/"
 layout: basic
 header_transparent: false
-description: Transforming Real Estate and Land Ownership in Africa through Blockchain
+description: Transforming Land Management, Property Rights and Documentation
   Technology
 image: "/assets/images/gen/content/content-5.webp"
 hero:
@@ -26,16 +26,16 @@ hero:
 
 # Revolutionizing Land Record Management with Landano
 
-Landano is revolutionizing the way real estate property owners manage their land records with a user-friendly, decentralized app (dApp). Our platform offers a true “RealFi” solution for property owners in Africa that has been tailored to meet the specific needs of the continent. Our on-the-ground pilot projects in Ghana, Mozambique, and Kenya have given us unique insights into the challenges faced by real estate owners in Africa, and we have used this knowledge to build a solution that truly meets their needs.
+Landano is revolutionizing the way real estate property owners manage their land records with a user-friendly, decentralized app (dApp). Our platform offers a true “RealFi” solution for property owners and local governments that has been tailored to meet the specific requirements of our users and partners. Our local engagement sessions and government collaboration in Ghana, Mozambique, and Canada have given us unique insights into the challenges faced by property owners, land administrators, and real estate practitioners everywhere. We have used this to build a system that is universally capable of being tailored to the requirements of any jurisdictional environment.
 
 ## Streamlined and Secure Land Record Management
 
-At Landano, we understand that managing land records can be a daunting task, particularly in regions where record-keeping practices are not standardized. This is why we have implemented a notarization process that leverages the power of the Cardano blockchain to create NFT documents that are immutable and auditable. This technology ensures that your land records are secure, transparent, and tamper-proof, and it eliminates the risk of fraud or corruption that can arise when records are managed manually.
+At Landano, we understand that managing land records can be a daunting task, particularly in regions where record-keeping practices are not standardized. This is why we are implementing a notarization process that leverages the power of the Cardano blockchain to create NFT documents that are immutable and auditable. This technology ensures that your land records are secure, transparent, and tamper-proof, and it eliminates the risk of fraud or corruption that can arise when records are managed manually.
 
-## Standards-based Record-Keeping Features
+## Internationally Standards-Compliant, Locally Valid and Vetted
 
-With Landano, you can trust that your land records will be kept up-to-date and organized. Our platform includes standards-based record-keeping features that allow you to easily manage your land records, including mortgages, business loans, leases, and more. And because our land records are stored on a shared, auditable ledger, you can use them as trustworthy DeFi primitives. This means that you can leverage your land records to secure financing for your business, take out a mortgage, or negotiate a lease with confidence.
+Our core functionality is compliant with ISO 19152:2012, the international standard for property records. Additionally we have made sure that where we operate, our records are instantly legally valid when created or updated; and within a short interval, updated with the central government’s registry system.
 
 ## Trusted Platform and Experienced Team
 
-Landano is a limited company registered in The Netherlands, and we conduct all corporate affairs on behalf of the Landano project. Our team is comprised of experienced professionals who are passionate about using technology to empower real estate owners in Africa. If you want to learn more about Landano, visit our team page or check out our FAQ section. We are always happy to answer any questions you may have about our platform or our mission to transform land record-keeping in Africa.
+Landano is registered as a Delaware C-Corp, and we conduct all affairs worldwide on behalf of the Landano project. Our team is comprised of experienced professionals who are passionate about using technology to empower real estate owners in Africa. If you want to learn more about Landano, visit our [team page](../team/) or send us a [message](../contact/). We are always happy to talk about our mission to transform land management and property security.

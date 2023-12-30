@@ -1,7 +1,7 @@
 ---
-title: Digital Buy/Sell Process
+title: Streamlined Buying and Selling
 date: 2023-03-12 00:00:00 Z
-description: Streamline your property transactions with our digital buy/sell process
+description: Transfer verified properties with less time and hassle
 weight: 1
 header_transparent: true
 fa_icon: fa-light fa-dollar-sign
@@ -10,8 +10,8 @@ thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
 hero:
   enabled: true
-  heading: Digital Buy/Sell Process
-  sub_heading: Streamline your property transactions with our digital buy/sell process
+  heading: Streamlined Buying and Selling
+  sub_heading: Transfer verified properties with less time and hassle
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false

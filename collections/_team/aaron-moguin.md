@@ -2,7 +2,7 @@
 title: Aaron Moguin
 date: 2018-12-20 03:44:30 Z
 weight: 3
-description: Co-founder & Chief Operational Officer (COO)
+description: Co-founder & Chief Operating Officer
 thumbnail: "/assets/images/team/aaron-moguin.png"
 image: "/assets/images/team/aaron-moguin.png"
 links:

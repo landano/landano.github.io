@@ -107,8 +107,8 @@ logo:
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
   logo_image_desktop_height: 60px
   logo_image_desktop_width: 318px
-  logo_image_mobile_height: 30px
-  logo_image_mobile_width: 34px
+  logo_image_mobile_height: 34px
+  logo_image_mobile_width: 30px
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
@@ -136,7 +136,7 @@ menu:
   show_social_media_in_mobile_menu: true
 footer:
   enable_footer: true
-  footer_title: Landano B.V.
+  footer_title: Landano International Ltd.
   footer_description: Securing property rights for everyone.
   enable_social_media_icons: true
   enable_contact_details: true
@@ -149,7 +149,7 @@ footer:
 bottom:
   enable_bottom: true
   enable_bottom_menu: true
-  copyright_text: "© 2023 Landano B.V."
+  copyright_text: "© 2023 Landano International Ltd."
 sidebar:
   enable_sidebar_services: true
   enable_breadcrumbs_services: true

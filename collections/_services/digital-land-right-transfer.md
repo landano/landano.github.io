@@ -1,7 +1,7 @@
 ---
-title: Digital Land Right Transfer
+title: Manage Land Use Rights
 date: 2021-07-23 00:00:00 Z
-description: Simplify land ownership transfer with our digital platform
+description: Lease or acquire mineral, water, grazing, etc. permissions
 weight: 2
 header_transparent: true
 fa_icon: fa-light fa-handshake-simple
@@ -10,8 +10,8 @@ thumbnail: "/assets/images/gen/home/areal-new-old.webp"
 image: "/assets/images/gen/home/areal-new-old.webp"
 hero:
   enabled: true
-  heading: Digital Land Right Transfer
-  sub_heading: Simplify land ownership transfer with our digital platform
+  heading: Manage Land Use Rights
+  sub_heading: Lease or acquire mineral, water, grazing, etc. permissions
   text_color: "#ffffff"
   background_color: "#1d2830"
   background_gradient: false

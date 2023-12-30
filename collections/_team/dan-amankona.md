@@ -2,7 +2,7 @@
 title: Dan Amankona
 date: 2018-12-20 03:44:30 Z
 weight: 4
-description: Co-Founder & Chief Marketing Officer (CMO)
+description: Co-Founder & Chief Marketing Officer
 thumbnail: "/assets/images/team/dan-amankona.png"
 image: "/assets/images/team/dan-amankona.png"
 links:
