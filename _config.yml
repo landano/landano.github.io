@@ -102,13 +102,13 @@ fonts:
 logo:
   logo_text: Landano
   logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
+  logo_image_mobile: assets/images/logo/logo.png
   logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  logo_image_invert_mobile: assets/images/logo/logo-invert.png
   logo_image_desktop_height: 60px
   logo_image_desktop_width: 318px
-  logo_image_mobile_height: 34px
-  logo_image_mobile_width: 30px
+  logo_image_mobile_height: 30px
+  logo_image_mobile_width: 159px
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
   show_logo_text_on_mobile: false
