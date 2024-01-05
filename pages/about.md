@@ -6,7 +6,7 @@ layout: basic
 header_transparent: false
 description: Transforming Land Management, Property Rights and Documentation
   Technology
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/catalyst/2305xx_summit_signin.jpeg"
 hero:
   enabled: false
   heading: About Us
