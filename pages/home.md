@@ -22,8 +22,8 @@ hero:
   buttons:
     enabled: true
     list:
-    - text: Subscribe to our newsletter
-      url: /newsletter/
+    - text: Vote on our proposals
+      url: /project-catalyst
       external: false
       fa_icon: false
       size: large
