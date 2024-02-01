@@ -2,7 +2,7 @@
 title: LANDANO FUND 11 PROPOSALS VOTING GUIDE
 
 date: 2023-12-30 00:00:00 Z
-permalink: "/project-catalyst-voting-guide"
+permalink: "/project-catalyst-voting-guide-old"
 layout: basic
 
 hero:
@@ -69,21 +69,6 @@ Open the voting app. In the voting app you'll see a button "CONNECT WALLET". Tap
 ### STEP 5: VOTE FOR LANDANO
 
 From Jan 25th, 2024 11:00 UTC the voting starts. In the app go to the Proposals tab and lookup the Landano proposals one-by-one. Give us a thumbs up when you like our proposals. After that, make sure to cast your votes via the Votes tab in the application.
-
-In the voting app go to the Proposals tab and select the "Cardano Use Cases: Solution" category. In the "Search Proposal" box type "Launching". Our Launching Landano on Cardano Mainnet proposal will appear. Click the proposal link and the green "Vote Yes" button.
-
-<img src="assets/images/gen/catalyst/vote_app.jpg" height="385px" width="150px" />
-
-To find our other two proposals,<br /> 
-A1. Return to the Proposals tab and follow the same steps as above:<br /> 
-A2. Select the "Cardano Use Cases: Concept" category.<br /> 
-A2. Search on "DID"<br /> 
-A4. Select and vote for our "Mapping RealFi DID requirements to Cardano-based Solutions"<br /> 
-
-A1. Return to the Proposals tab and follow the same steps as above:<br /> 
-A2. Select the "Cardano Open: Developers" category.<br /> 
-A2. Search on "Mendix"<br /> 
-A4. Select and vote for our "Cardano Mendix plug-in by the Landano team"<br /> 
 
 ## HAPPY VOTING!
 
