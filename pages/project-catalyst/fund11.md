@@ -2,7 +2,7 @@
 title: LANDANO PROJECT CATALYST FUND 11
 
 date: 2023-12-30 00:00:00 Z
-permalink: "/project-catalyst/fund-11"
+permalink: "/project-catalyst/fund-11/"
 layout: basic
 
 hero:
