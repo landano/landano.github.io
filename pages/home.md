@@ -10,7 +10,7 @@ meta_title: Landano - Property Rights Secured
 hero:
   enabled: true
   heading: Property Rights, Secured.
-  sub_heading: For <i>everyone</i>.
+  sub_heading: For <i>everyone.</i>
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
