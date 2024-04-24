@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Landano technical architecture
+title: Technical architecture update
 date: 2024-04-15T10:05:00.000Z
-image: /assets/uploads/2024-04-23-landano-technical-architecture-v1.jpg
-thumbnail: /assets/uploads/2024-04-23-landano-technical-architecture-v1.jpg
+image: /assets/uploads/screenshot-2024-04-23-at-5.10.37 pm.png
+thumbnail: /assets/uploads/screenshot-2024-04-23-at-5.10.37 pm.png
 ---
 Landano is a software platform for creating and managing decentralized land right records using the [Cardano](https://cardano.org) blockchain.
 
