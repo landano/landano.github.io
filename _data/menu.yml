@@ -19,6 +19,9 @@ main:
   - name: About
     url: /about/
     weight: 5
+  - name: Docs
+    url: "https://docs.landano.io/"
+    weight: 6
 footer_primary:
   - name: Home
     url: /
