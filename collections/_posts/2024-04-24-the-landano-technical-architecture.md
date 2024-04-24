@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Technical architecture update
-date: 2024-04-15T10:05:00.000Z
+date: 2024-04-23T17:59:00.000Z
 image: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
 thumbnail: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
-categories:
-  - development
-  - Cardano
-  - project
+categories: []
 ---
 Landano is a software platform for creating and managing decentralized land right records using the [Cardano](https://cardano.org) blockchain.
 
@@ -54,7 +51,7 @@ Mendix enables model-driven development through Mendix Studio Pro, which provide
 
 ## The Land Administration Domain Model (LADM)
 
-Landano software and record-keeping requirements are ISO standards compliant to ensure the sustainability, interoperability, credibility and legal value of the land right documentation it creates and manages. The foundational model that drives the Landano domain is based on [ISO standard 19152](https://www.iso.org/standard/81263.html), the Land Administration Domain Model (LADM). The LADM provides a standardized global vocabulary and entity model for land administration. It has become the predominant reference standard for land administration software systems. Landano has implemented as a Mendix domain underpinning our business logic. 
+Landano software and record-keeping requirements are ISO standards compliant to ensure the sustainability, interoperability, credibility and legal value of the land right documentation it creates and manages. The foundational model that drives the Landano domain is based on [ISO standard 19152](https://www.iso.org/standard/81263.html), the Land Administration Domain Model (LADM). The LADM provides a standardized global vocabulary and entity model for land administration. It has become the predominant reference standard for land administration software systems. Landano has implemented the LADM as a Mendix domain underpinning our business logic. 
 
 ![LADM as Mendix model](/assets/uploads/screenshot-2024-04-23-at-5.35.53 pm.png "LADM as Mendix model")
 
