@@ -5,10 +5,12 @@ date: 2024-04-23T17:59:00.000Z
 image: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
 thumbnail: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
 categories:
-- Development
-- Cardano
+  - Development
+  - Cardano
 ---
 Landano is a software platform for creating and managing decentralized land right records using the [Cardano](https://cardano.org) blockchain.
+
+![Landano UIs and concept](/assets/uploads/2024-04-24-landano-uis-concept.png "Landano UIs and concept")
 
 We created a proof-of-concept application during Landano’s kick-off stage in 2022. We eased from software development in 2023 to focus on better understanding our potential user base, business opportunities, and matching up to investor profiles. We’ve summarized a lot of that activity in this [update video](https://youtu.be/m8eFfN4BBsw?si=tsHOEfJsMKsBcyYs).
 
