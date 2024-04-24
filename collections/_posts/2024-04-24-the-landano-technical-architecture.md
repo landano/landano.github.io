@@ -63,3 +63,9 @@ In addition to managing the domain model, Mendix Studio allows our developers to
 ![Mendix UI wizard](/assets/uploads/screenshot-2024-04-23-at-5.37.31 pm.png "Mendix UI wizard")
 
 The last component of note is the Mendix-Arkly interface. [Arkly](https://www.arkly.io/about/) is a platform developed in collaboration with the Landano team to provide permanent, decentralized document storage on the Arweave network. Blockchain applications like Landano need persistent links to immutable off-chain files that provide the documentation, metadata, and audit trails to support complex land right transactions. Arkly ensures that documentation packages stored on Arweave are immutably linked to their matching Cardano NFT and smart contract transactions, creating a verifiable audit trail of land right transactions on two permissionless ledgers.
+
+## How it comes together
+
+This is how the components described above come together to make up the Landano technical architecture:
+
+![The Landano technical architecture v1](/assets/uploads/2024-04-23-landano-technical-architecture-v1.jpg "The Landano technical architecture v1")
