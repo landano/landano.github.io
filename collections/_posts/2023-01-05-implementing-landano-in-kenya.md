@@ -9,7 +9,7 @@ categories:
   - Kenya
   - Land rights
 ---
-Landano has been conducting pilot projects in rural \[Ghana]( **GHOST_URL** /implementing-decentralized-land-right-records-a-ghana-pilot-project/) and \[Mozambique]( **GHOST_URL** /improving-land-tenure-security-in-mozambique/) to drive the requirements and design of our Minimum Viable Product (MVP) software release.
+Landano has been conducting pilot projects in rural Ghana and Mozambique to drive the requirements and design of our Minimum Viable Product (MVP) software release.
 
 We believe that technology for its own sake is a lost opportunity, and that land administration projects designed and built without first understanding the socio-cultural context in which they will be deployed are inevitably limited in their ability to spark societal change and improvement.
 
