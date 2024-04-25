@@ -6,6 +6,7 @@ image: "/assets/ghost/images/2022/09/the-artboard-VY5Gpwyl8O4-unsplash.jpg"
 thumbnail: "/assets/ghost/images/2022/09/the-artboard-VY5Gpwyl8O4-unsplash.jpg"
 categories:
 - Project
+- Land rights
 ---
 
 Land is a precious resource and having a claim to land is a powerful financial asset. However, more than five billion people worldwide lack proof of ownership for their real property due to poor or unfair implementation of land systems (Tabary, 2019).  
