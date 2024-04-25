@@ -20,15 +20,7 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    enabled: true
-    list:
-    - text: Vote on our proposals
-      url: /project-catalyst
-      external: false
-      fa_icon: false
-      size: large
-      outline: false
-      style: light
+    enabled: false
 services:
   enabled: true
   heading: Our Solutions
