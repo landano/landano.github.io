@@ -5,8 +5,8 @@ layout: post
 image: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
 thumbnail: "/assets/ghost/images/2022/09/Some-Ghanaian-farmers.jpg"
 categories:
-- Ghana
 - Project
+- Ghana
 - Land rights
 ---
 
