@@ -5,8 +5,8 @@ layout: post
 image: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
 thumbnail: "/assets/ghost/images/2022/03/414801472_a105c143cd_o.jpg"
 categories:
-  - Ghana
   - Project
+  - Ghana
   - Land rights
 ---
 
