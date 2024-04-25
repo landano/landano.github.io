@@ -6,6 +6,7 @@ image: "/assets/ghost/images/2023/01/Fnk7MwAWIAAGMeo.jpeg"
 thumbnail: "/assets/ghost/images/2023/01/Fnk7MwAWIAAGMeo.jpeg"
 categories:
 - Project
+- Cardano
 ---
 
 January 27, 2023 - Quantum Conference (Miami)  
