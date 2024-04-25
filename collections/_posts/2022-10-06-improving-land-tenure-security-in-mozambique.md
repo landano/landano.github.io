@@ -5,8 +5,10 @@ layout: post
 featured: true
 image: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
 thumbnail: "/assets/ghost/images/2022/10/Screen-Shot-2022-10-06-at-9.38.18-AM-1.png"
-tags:
-- blog
+categories:
+- Project
+- Mozambique
+- Land rights
 ---
 
 > If communities mapped their own territories, would land disputes decrease? Does land tenure security improve economic opportunities within marginalized societies? How do trustworthy, reliable land right records empower people?
