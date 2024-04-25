@@ -5,6 +5,7 @@ date: 2024-04-23T17:59:00.000Z
 image: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
 thumbnail: /assets/uploads/screenshot-2024-04-23-at-5.25.02 pm.png
 categories:
+  - Project
   - Software
   - Cardano
 ---
