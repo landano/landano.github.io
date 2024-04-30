@@ -23,18 +23,15 @@ main:
     url: "https://docs.landano.io/"
     weight: 6
 footer_primary:
-  - name: Home
-    url: /
-    weight: 1
   - name: Solutions
     url: /services/
-    weight: 2
+    weight: 1
   - name: Projects
     url: /projects/
-    weight: 3
+    weight: 2
   - name: Team
     url: /team/
-    weight: 4
+    weight: 3
 footer_secondary:
   - name: Blog
     url: /blog/
@@ -45,6 +42,3 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
-  - name: Investors
-    url: /Investors/
-    weight: 4
