@@ -32,4 +32,8 @@ hero:
 
 We are very happy and grateful to have received such an overwelming support by the community to give us the confidence to start working on our Fund 11 Proposal. Please visit this page frequently to get an update on the latest status of the project.
 
+### Milestone 1
+[Project Plan](/assets/downloads/2024/04/landano-fund-11-project-plan.pdf)
+
+
 
