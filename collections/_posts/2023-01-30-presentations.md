@@ -8,7 +8,7 @@ categories:
   - Project
   - Cardano
 ---
-May 1, 2024 - Mindplex with Dr. Mihaela Ulieru\
+May 1, 2024 - Mindplex with Dr. Mihaela Ulieru (YouTube)\
 "[Digitizing Real Land Ownership Using Blockchain](https://youtu.be/_obPTo9ttl0?si=jku3XyfAO9ylfTTO)" \
 \
 January 27, 2023 - Quantum Conference (Miami)\
@@ -31,6 +31,3 @@ August 27, 2022 - DWeb Camp (San Francisco)\
 
 August 26, 2022 - Empowa podcast (YouTube)\
 "[Landano: Trustworthy Land Management dApp](https://youtu.be/nfl9AeTZJrA)"
-
-August 16, 2022 - Bullish Dumpling interview (Twitterspace)\
-"\[Landano: Ask Me Anything]( **GHOST_URL** /landano-ama/)"
