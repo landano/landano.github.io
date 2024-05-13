@@ -50,7 +50,7 @@ baseurl: '/jekyll-advance-pro' # This should be the name of your repo!
 
 ## Credits
 
-This theme uses open-source libraries and assets.
+This theme uses open-source libraries and assets..
 
 ### Font Awesome 5 Free
 
