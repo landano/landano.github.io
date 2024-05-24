@@ -34,7 +34,7 @@ At Landano, we understand that managing land records can be a daunting task, par
 
 ## Internationally Standards-Compliant, Locally Valid and Vetted
 
-Our core functionality is compliant with ISO 19152:2012, the international standard for property records. Additionally we have made sure that where we operate, our records are instantly legally valid when created or updated; and within a short interval, updated with the central government’s registry system.
+Our core functionality is compliant with ISO 19152:2012, the international standard for property records. Additionally we have made sure that where we operate, our records are created and updated in a legally compatible method; and within a short interval, updated with the central government’s registry system.
 
 ## Trusted Platform and Experienced Team
 
