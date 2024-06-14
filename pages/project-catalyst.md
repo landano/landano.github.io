@@ -40,7 +40,7 @@ This project will upgrade the prototype software created during the Landano pilo
 
 This project will develop a Cardano Foundation Identity Wallet wrapper for the verification and transfer of Landano land right NFTs using the KERI protocol and share the results with the Cardano community as a Mendix plugin. 
 
-## <a href="https://cardano.ideascale.com/c/idea/113641" target="_blank">Establish a Cardano Global Land Rights Action NGO</a>
+## <a href="https://cardano.ideascale.com/c/idea/123110" target="_blank">Establish a Cardano Global Land Rights Action NGO</a>
 
 This project will establish a Ghana-based NGO that brings together land-rights activists, land admin stakeholders, and developers to combat escalating land seizures and associated violence through Cardano-based solutions.
 
