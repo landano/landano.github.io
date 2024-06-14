@@ -22,7 +22,7 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: Vote on our proposals
+      - text: Vote on our Catalyst proposals!
         url: /project-catalyst
         external: false
         fa_icon: false
