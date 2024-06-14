@@ -1,13 +1,13 @@
 ---
-title: LANDANO FUND 11 PROPOSALS VOTING GUIDE
+title: LANDANO FUND 12 PROPOSALS VOTING GUIDE
 
-date: 2023-12-30 00:00:00 Z
+date: 2024-06-14 00:00:00 Z
 permalink: "/project-catalyst"
 layout: basic
 
 hero:
   enabled: true
-  heading: PROJECT CATALYST FUND 11 PROPOSALS
+  heading: PROJECT CATALYST FUND 12 PROPOSALS
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
@@ -30,24 +30,19 @@ hero:
 ## WHAT IS PROJECT CATALYST?
 Project Catalyst is an innovative part of the Cardano blockchain, functioning as a community-driven fund and a platform for decentralized innovation. It allows ADA holders to propose, discuss, and vote on various projects aimed at improving and expanding the Cardano ecosystem. This democratic approach to governance and funding enables the Cardano community to directly influence the network's development. By participating in Project Catalyst, stakeholders can support initiatives that align with their vision for the blockchain, fostering a more vibrant and collaborative environment for growth and advancement within the Cardano ecosystem.
 
-## THE THREE LANDANO FUND 11 CATALYST PROPOSALS
+## THE THREE LANDANO FUND 12 CATALYST PROPOSALS
 
-Landano's Project Catalyst Fund 11 proposals feature innovative ideas aimed at enhancing the Cardano ecosystem while simultaneously solving real-world problems. It includes the development of a Cardano Mendix plug-in to create off-chain development tools, thereby making Cardano more accessible to developers and promoting enterprise involvement. Another key proposal is to establish guidelines for decentralized identity solutions in Cardano, tailored to the requirements of RealFi projects like Landano. Additionally, we're focused on launching our Landano app, aimed at providing safe and secure digitized land records which will be stored on the Cardano Mainnet, drawing from our successful pilot projects in Ghana and Mozambique. These initiatives collectively aim to expand Cardano accesibility to more people in more places, who want to solve real problems using Cardano's unique advantages of utility.
+## <a href="https://cardano.ideascale.com/c/idea/122617" target="_blank">Launching Landano land rights on Cardano mainnet</a>
 
-## <a href="https://cardano.ideascale.com/c/idea/112624" target="_blank">Cardano Mendix plug-in by the Landano team</a>
+This project will upgrade the prototype software created during the Landano pilots and deliver a production-ready Cardano mainnet MVP for registering, verifying, and transferring land right records.
 
-*Category:* Cardano Open: Developers<br>
-*Summary:*<br> Cardano's ecosystem needs easy-to-use off-chain dev tools to attract enterprise participation. Mendix’s low-code platform is an ideal fit but there are currently no Mendix plugins or SDKs for Cardano. Funding this proposal will result in wider access for developers to Cardano, and more real-world use cases taking advantage of Cardano’s utility.
+## <a href="https://cardano.ideascale.com/c/idea/122560" target="_blank">Implementing the Cardano Foundation Identity Wallet in Landano</a>
 
-## <a href="https://cardano.ideascale.com/c/idea/113510" target="_blank">Mapping RealFi DID requirements to Cardano-based solutions</a>
+This project will develop a Cardano Foundation Identity Wallet wrapper for the verification and transfer of Landano land right NFTs using the KERI protocol and share the results with the Cardano community as a Mendix plugin. 
 
-*Category:* Cardano Use Cases: Concept<br>
-*Summary:*<br> RealFi projects like Landano need decentralized solutions for identity and credentials which can be used by users globally. However, system requirements and available solutions aren’t yet understood. This proposal’s outcome will be a set of guidelines, protocols, and best practices for implementing a consistent, secure, transferable decentralized identity solution within the Cardano ecosystem (and, conceivably, on other blockchains).
+## <a href="https://cardano.ideascale.com/c/idea/113641" target="_blank">Establish a Cardano Global Land Rights Action NGO</a>
 
-## <a href="https://cardano.ideascale.com/c/idea/113641" target="_blank">Launching Landano on Cardano Mainnet</a>
-
-*Category:* Cardano Use Cases: Solution<br>
-*Summary:*<br> Landano’s pilots, market analysis and customer feedback in Ghana and Mozambique resulted in a prototype demonstrating legal land rights management via Cardano NFT minting. To continue this progress, if funded, this proposal will develop this into a viably functional land-record storage and administration product to launch on Cardano Mainnet.
+This project will establish a Ghana-based NGO that brings together land-rights activists, land admin stakeholders, and developers to combat escalating land seizures and associated violence through Cardano-based solutions.
 
 ## VOTE
 
