@@ -70,20 +70,20 @@ Open the voting app. In the voting app you'll see a button "CONNECT WALLET". Tap
 
 From Jun 27th, 2024 12:00 UTC the voting starts and will continue until July 11, 2024, at 11:00 UTC. In the app go to the Proposals tab and lookup the Landano proposals one-by-one. Give us a thumbs up when you like our proposals. After that, make sure to cast your votes via the Votes tab in the application.
 
-In the voting app go to the Proposals tab and select the "Cardano Use Cases: Solution" category. In the "Search Proposal" box type "Launching". Our Launching Landano on Cardano Mainnet proposal will appear. Click the proposal link and the green "Vote Yes" button.
+In the voting app go to the Proposals tab and select the "Cardano Use Cases: MVP" category. In the "Search Proposal" box type "Launching". Our Launching Landano land rights on Cardano mainnet proposal will appear. Click the proposal link and the green "Vote Yes" button.
 
 <img src="assets/images/gen/catalyst/vote_app.jpg" height="385px" width="150px" />
 
 To find our other two proposals,<br /> 
 A1. Return to the Proposals tab and follow the same steps as above:<br /> 
 A2. Select the "Cardano Use Cases: Concept" category.<br /> 
-A2. Search on "DID"<br /> 
-A4. Select and vote for our "Mapping RealFi DID requirements to Cardano-based Solutions"<br /> 
+A2. Search on "Landano"<br /> 
+A4. Select and vote for our "Implementing the Cardano Foundation Identity Wallet in Landano"<br /> 
 
 A1. Return to the Proposals tab and follow the same steps as above:<br /> 
-A2. Select the "Cardano Open: Developers" category.<br /> 
-A2. Search on "Mendix"<br /> 
-A4. Select and vote for our "Cardano Mendix plug-in by the Landano team"<br /> 
+A2. Select the "Cardano Open: Ecosystem" category.<br /> 
+A2. Search on "NGO"<br /> 
+A4. Select and vote for our "Establish a Cardano Global Land Rights Action NGO"<br /> 
 
 ## HAPPY VOTING!
 
