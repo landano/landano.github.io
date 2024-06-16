@@ -64,11 +64,11 @@ Follow your wallet-specific guidelines for voting registration, inside the walle
 
 Open the voting app. In the voting app you'll see a button "CONNECT WALLET". Tap this button and follow the instructions on screen.
 
-> NOTE: Make sure to have completed this step before the registration closes on Jan 15th, 2024 21:45 UTC
+> NOTE: Make sure to have completed this step before the registration closes on Jun 18th, 2024 21:45 UTC
 
 ### STEP 5: VOTE FOR LANDANO
 
-From Jan 25th, 2024 11:00 UTC the voting starts. In the app go to the Proposals tab and lookup the Landano proposals one-by-one. Give us a thumbs up when you like our proposals. After that, make sure to cast your votes via the Votes tab in the application.
+From Jun 27th, 2024 12:00 UTC the voting starts and will continue until July 11, 2024, at 11:00 UTC. In the app go to the Proposals tab and lookup the Landano proposals one-by-one. Give us a thumbs up when you like our proposals. After that, make sure to cast your votes via the Votes tab in the application.
 
 In the voting app go to the Proposals tab and select the "Cardano Use Cases: Solution" category. In the "Search Proposal" box type "Launching". Our Launching Landano on Cardano Mainnet proposal will appear. Click the proposal link and the green "Vote Yes" button.
 
