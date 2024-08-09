@@ -20,7 +20,7 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: Vote on our Catalyst proposals!
         url: /project-catalyst
