@@ -75,3 +75,4 @@ Like every sovereign nation, Ghana has its own land administration laws and its 
 ![Landano Requirements Analysis](/assets/ghost/images/2022/03/Landano---requirements-analysis-v3.jpg)
 
 This model helps to structure the documents and data that Landano manages. The fields and labels on its user interface will be customized to be more context-sensitive to a particular country, registry tradition, language, etc. We are also working on adding geo-spatial unit data to Landano and sharing it via our platform. We will provide more details on these technical developments as we develop them further.
+
