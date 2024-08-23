@@ -37,3 +37,9 @@ We are very happy and grateful to have received such an overwelming support by t
 * [Jira Export](/assets/downloads/2024/05/20240513%20Cardano%20Mendix%20Plug-in%20Jira%20Export.pdf)
 
 
+### Milestone 2
+* [Github: Cardano Mendix Plugin](https://github.com/landano/cardano-mx-plugin)
+* [Figma: UX/UI Document](https://www.figma.com/design/PorVRzst44LFr2f7UBAHv0/Cardano-Mendix-Plug-in?node-id=0-1&t=W1dKg07ZuCpiLhlv-1)
+* [Feedback Document](/assets/downloads/2024/08/CardanoMendixPlugin-Feedback.pdf)
+* [UX/UI Feedback](/assets/downloads/2024/08/Cardano-Mendix-Plug-in.xlsx)
+* [Prototype Feedback](/assets/downloads/2024/08/FeedbackOverview.csv)

@@ -1,0 +1,45 @@
+"ID","Title","Description","Status","Submitter","Submission Date","Tags"
+"18","edit and correct this text","","New","aaron","22-08-2024",
+"35","My Awesome Cardano Transaction","get rid of the autofill text under message metadata, i appreciate the informality but i don't think any autofill should be here.","New","aaron","23-08-2024",
+"19","close button doesn't do anything.","","New","aaron","22-08-2024",
+"8","need explicit directions","please let me know that i need to copy all these and then paste them in the next step. AND store them safely etc.","New","aaron","21-08-2024",
+"5","creating transaction","the 'create transaction' button doesn't do anything, how or where am i supposed to see what making a simple transfer looks like or see how it works?","New","demo_administrator","29-07-2024",
+"2","UI for transfers, or generally","I am not sure this whole interface is very user friendly for anyone other than a trained administrator type person. a typical landrightsholder, especially our first customers, will likely be completely bamboozled by this UI/UX.","New","demo_administrator","29-07-2024",
+"6","landano font","in your walkthrough (recorded video from aug 6 meeting) the font is right. here it is not","New","aaron","21-08-2024",
+"13","no home button","no way to return to the main or intro screen or page here? i can't find anything to click on that does that","New","aaron@landano.io","21-08-2024",
+"32","wallet selection differentiation","it's not clear, after selecting a wallet, which wallet you have selected. should be a different colour or highlighted or something","New","aaron@landano.io","23-08-2024",
+"20","Page refresh button","Can we make the icon more noticeable. Perhaps include ""Refresh"" or just make the icon bolder","New","dan@landano.io","22-08-2024",
+"21","Startup experience","Seeing just the Landano logo at startup might be confusing for new users. What about:
+""Cardano Mendix plugin - by Landano""","New","peter","22-08-2024",
+"33","""select network""","I suppose the network selection terminology is actually true and accurate but maybe another word would be more intuitive and understandable. ""select activity"" or ""what do you want to do?"" for me ""network"" is confusing.","New","aaron","23-08-2024",
+"22","Text error","There's an extra space: it should read 
+""Confirmation: The transaction was successful and can be monitored at""
+instead of:
+""ConfirmationThe transaction was succesful and can be monitored at""","New","dan","22-08-2024",
+"11","add copy buttons for the base and stake addresses","","New","aaron@landano.io","21-08-2024",
+"15","Cannot receive ADA from test faucet","Rate limit exceeded when trying to receive ADA. I tried numerous times and couldn't get it to work","New","dan@landano.io","21-08-2024",
+"3","UI/UX","again, this screen seems super arcane and technical for a typical individual rightsholder user. speaking for myself, i use two different crypto wallets and this UI is really confusing to me. is there some way to make this much more intuitive??","New","demo_administrator","29-07-2024",
+"31","Wallet should show opening balance","It was not clear what testADA balance, if any, my preprod wallet had so I wasn't sure what I could send. I also did not have a test wallet address to send the funds to. I don't know another wallet key to use so have to stop here.","New","peter","22-08-2024",
+"14","i cannot log out!","aaron typed this.","New","dan@landano.io","21-08-2024",
+"37","Consider creating a copy button","A copy button would save time and also ensures that the address is copied correctly","New","dan@landano.io","23-08-2024",
+"24","An error occurs when re-creating a new wallet","in midst of entering seed phrase, this error box keeps appearing","New","peter","22-08-2024",
+"26","create wallet does not work","After initial errors, I restarted the process, entered in the new seed phrase but still get this error message when trhying to create the wallet","New","peter","22-08-2024",
+"30","Transaction workflow has ""Create Wallet"" header","the top level header should change from ""Create Wallet"" to ""Create Transaction""","New","peter","22-08-2024",
+"7","need directions/hold my hand; also, email required","1. i mentioned this as feedback in our aug 6 meeting. not totally clear that i should paste the words from the last step here, be more explicit w your directions. don't assume i know what i'm doing, or that i know everything i need to know at every step. need explicit directions. 
+2. it also says email is optional in the ""i"" popup text but it won't let me submit without filling in an email.","New","aaron","21-08-2024",
+"27","The word Collapse looks like a main menu option","This functionality (collapsing the menu bar) might be better served with just an icon and removing the ""Collapse"" word. At first glance that word may sound / lool like a menu option","New","peter","22-08-2024",
+"17","refresh button : make it more obvious!","","New","aaron","22-08-2024",
+"25","no logout option","while trying to get aroudn the wallet creation errors, I tried to logout and start again but there is no logout option","New","peter","22-08-2024",
+"9","what is a passphrase.","is this the same as a password? but more than one word? this is the first time i have seen this term","New","aaron","21-08-2024",
+"16","Cannot switch between users","When I attempt to switch profiles I get locked out of my current account and have to log in again via an incognito tab. Otherwise, I get sent to a blank screen that simply says ""Message"". This might be because Aaron was also signed in as the demo_administrator but unsure","New","dan","21-08-2024",
+"36","step labels","for me it would be helpful to have more descriptive step labels, to know what's happening.","New","aaron","23-08-2024",
+"12","wallet address not receive test ada","i did not receive test ada into the wallet. first time, the transaction did not register, the hash had no record attached to it. second attempt, the hash revealed a transaction, but the ada never arrived in the wallet. 
+UPDATE: the ada was sent to the stake wallet, but never showed up as a balance here in sandbox. here's the hash for the second transaction: 8e6624ee692e640022391f8c651732f4be9f307ab02ce21beb6518ea274cc3fc","New","aaron","21-08-2024",
+"4","making a transaction","i can't seem to figure out how to actually do a test transaction. most of these fields won't let me enter anything, and what would i enter anyway? some real wallet/person info? seems like something i shouldn't do. basically i don't know how to verify this function, since you say i can't create a new wallet which seems important.","New","dorus@landano.io","29-07-2024",
+"34","""message meta data""","1. ""meta data"" is incorrect, eliminate the space; ""metadata""
+2. this word is technical and confusing maybe too much. ""message for recipient"" or some such thing would be better.","New","aaron","23-08-2024",
+"28","""Select Network"" label is not clear","At this stage we are asked to perform a transaction with out wallet. We have already selected the Network in the previous step. This looks like it should be labelled ""Select transaction type""","New","peter","22-08-2024",
+"29","the input boxes are too small to be meaningful","these boxes should be expanded so that the full address is visible (could use a wrap effect to fit entire address key). Need larger input box so user can read the message they are entering. Also re label ""meta data"" should be one word ""metadata""","New","peter","22-08-2024",
+"10","give some guidance for passphrase","if this is supposed to be a phrase tell me that. otherwise i will just let a complicated password be generated for me here, or make one of my own","New","aaron","21-08-2024",
+"1","creating wallet","how much can i really go down the path of creating a wallet? if i plug in all the recovery words from step 2 in step 3 will dan or anyone else be able to go down the same path/process and review it? or is this happening only in my own login.","New","dorus@landano.io","29-07-2024",
+"23","Seed phrase creation","If you get a seed phrase wrong or forgotten in Step 3 and go back to Step 2, it presents a new 24 word phrase and then moving ahead to step 3 adds a new blank 24 hour  list for the seed phrase (see screencap). The expected behaviour if original seed phrase is forgotten or entered mistakenly is to generate a brand new phrase set","New","peter","22-08-2024",
