@@ -43,3 +43,7 @@ We are very happy and grateful to have received such an overwelming support by t
 * [Figma: UX/UI Document](https://www.figma.com/design/PorVRzst44LFr2f7UBAHv0/Cardano-Mendix-Plug-in?node-id=0-1&t=W1dKg07ZuCpiLhlv-1)
 * [UX/UI Feedback](/assets/downloads/2024/08/Cardano-Mendix-Plug-in.xlsx)
 * [Prototype Feedback](/assets/downloads/2024/08/FeedbackOverview.csv)
+
+The prototype can be found at: [https://cardanomendixplug-in-sandbox.mxapps.io/](https://cardanomendixplug-in-sandbox.mxapps.io/)  
+NOTE: As the prototype is running on a sandbox environment it may take some time to spin up  
+NOTE2: To login click on the select user icon on the right hand side of the screen (only the demo_user is enabled). Please be aware that it's a publicly available login so only use it for testing purposes and never with real ADA.
