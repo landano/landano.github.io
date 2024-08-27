@@ -38,8 +38,8 @@ We are very happy and grateful to have received such an overwelming support by t
 
 
 ### Milestone 2
+* [Feedback Document](/assets/downloads/2024/08/240826-Milestone-2-Feedbacks.pdf)
 * [Github: Cardano Mendix Plugin](https://github.com/landano/cardano-mx-plugin)
 * [Figma: UX/UI Document](https://www.figma.com/design/PorVRzst44LFr2f7UBAHv0/Cardano-Mendix-Plug-in?node-id=0-1&t=W1dKg07ZuCpiLhlv-1)
-* [Feedback Document](/assets/downloads/2024/08/CardanoMendixPlugin-Feedback.pdf)
 * [UX/UI Feedback](/assets/downloads/2024/08/Cardano-Mendix-Plug-in.xlsx)
 * [Prototype Feedback](/assets/downloads/2024/08/FeedbackOverview.csv)
