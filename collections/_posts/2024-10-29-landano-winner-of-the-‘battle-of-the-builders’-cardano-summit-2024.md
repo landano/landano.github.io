@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Landano, Winner of the ‘Battle of the Builders’ - Cardano Summit 2024
+title: Landano, Winner of the Battle of the Builders - Cardano Summit 2024
 date: 2024-10-29T22:40:00.000Z
 image: /assets/uploads/1729954207353.webp
 thumbnail: /assets/uploads/whatsapp-image-2024-10-25-at-16.20.51_c1dde35b.jpg
