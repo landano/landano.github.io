@@ -16,3 +16,5 @@ The Battle of the Builders is one of the most anticipated events at the Cardano 
 
 
 This recognition affirms our commitment to building a transformative platform within the Cardano ecosystem. Our mission remains to harness blockchain technology to address real-world land challenges. Winning this distinguished competition brings us closer to achieving that vision, reaffirming that Landano has the potential to revolutionize global land rights management and establish a profitable, sustainable solution.
+
+![Cardano Summit 2024 Winners](/assets/uploads/whatsapp-image-2024-10-25-at-16.20.51_c1dde35b.jpg "Cardano Summit 2024 Winners")

@@ -20,10 +20,10 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: Vote on our Catalyst proposals!
-        url: /project-catalyst
+      - text: We won the Battle of the Builders!
+        url: /cardano/2024/10/29/landano-winner-of-the-battle-of-the-builders-cardano-summit-2024/
         external: false
         fa_icon: false
         size: large
