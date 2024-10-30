@@ -22,7 +22,7 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: We won the Battle of the Builders!
+      - text: Winner of the Battle of the Builders!
         url: /cardano/2024/10/29/landano-winner-of-the-battle-of-the-builders-cardano-summit-2024/
         external: false
         fa_icon: false
