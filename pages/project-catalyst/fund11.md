@@ -44,6 +44,13 @@ We are very happy and grateful to have received such an overwelming support by t
 * [UX/UI Feedback](/assets/downloads/2024/08/Cardano-Mendix-Plug-in.xlsx)
 * [Prototype Feedback](/assets/downloads/2024/08/FeedbackOverview.csv)
 
+### Milestone 3
+* [Community Engagement Report & Implementation Plan](/assets/downloads/2025/01/Community-Engagement-Report-Implementation-Plan.pdf)
+* [Jira Export Sprint 3](/assets/downloads/2025/01/Jira-Export-Sprint-3.xlsx)
+* [Jira Export Sprint 4](/assets/downloads/2025/01/Jira-Export-Sprint-4.xlsx)
+* [Community Event](https://youtu.be/p0Wsp-OVuho)
+
+
 The prototype can be found at: [https://cardanomendixplug-in-sandbox.mxapps.io/](https://cardanomendixplug-in-sandbox.mxapps.io/)  
 NOTE: As the prototype is running on a sandbox environment it may take some time to spin up  
 NOTE2: To login click on the select user icon on the right hand side of the screen (only the demo_user is enabled). Please be aware that it's a publicly available login so only use it for testing purposes and never with real ADA.
