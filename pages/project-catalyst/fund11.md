@@ -50,6 +50,14 @@ We are very happy and grateful to have received such an overwelming support by t
 * [Jira Export Sprint 4](/assets/downloads/2025/01/Jira-Export-Sprint-4.xlsx)
 * [Community Event](https://youtu.be/p0Wsp-OVuho)
 
+### Milestone 4
+* [Preliminary Testing Documentation](/assets/downloads/2025/03/Preliminary-Testing-Documentation.pdf)
+* [Jira Export User Stories](/assets/downloads/2025/03/Jira-Export-Sprint4-Milestone4.pdf)
+* [Feedback Guide](/assets/downloads/2025/03/Feedback-Collection-Methods.pdf)
+* [Cardano Mendix Plugin - Milestone 4 release](https://github.com/landano/cardano-mx-plugin/releases/tag/20250324-Milestone4)
+* [Support Documentation](/assets/downloads/2025/03/Support-Documentation.pdf)
+
+
 
 The prototype can be found at: [https://cardanomendixplug-in-sandbox.mxapps.io/](https://cardanomendixplug-in-sandbox.mxapps.io/)  
 NOTE: As the prototype is running on a sandbox environment it may take some time to spin up  
