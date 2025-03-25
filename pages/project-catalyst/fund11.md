@@ -61,4 +61,4 @@ We are very happy and grateful to have received such an overwelming support by t
 
 The prototype can be found at: [https://cardanomendixplug-in-sandbox.mxapps.io/](https://cardanomendixplug-in-sandbox.mxapps.io/)  
 NOTE: As the prototype is running on a sandbox environment it may take some time to spin up  
-NOTE2: To login click on the select user icon on the right hand side of the screen (only the demo_user is enabled). Please be aware that it's a publicly available login so only use it for testing purposes and never with real ADA.
+NOTE2: To login click on the select user icon on the right hand side of the screen (only the demo_user is enabled). Please be aware that it's a publicly available login so only use it for testing purposes and never with real ADA
