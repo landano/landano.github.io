@@ -57,6 +57,14 @@ We are very happy and grateful to have received such an overwelming support by t
 * [Cardano Mendix Plugin - Beta version release](https://github.com/landano/cardano-mx-plugin/releases/tag/20250324-Milestone4)
 * [Support Documentation](/assets/downloads/2025/03/Support-Documentation.pdf)
 
+### Final Milestone
+* [Cardano Mendix Plugin - release candidate](https://github.com/landano/cardano-mx-plugin/releases/tag/release-candidate)
+* [Cardano Mendix Plugin - Documentation](https://docs.landano.io/d/cardano-mendix-plugin)
+* [Jira Export User Stories](/assets/downloads/2025/04/cardano-mendix-plugin--all-stories.pdf)
+* [Testing report](/assets/downloads/2025/04/cardano-mendix-plugin--release-candidate-testing-documentation.pdf)
+* [Close out Video](https://youtu.be/WWK3RIXOBKI)
+* [Close out Report](/assets/downloads/2025/04/2504-1100061-closeout-report.pdf)
+
 
 
 The prototype can be found at: [https://cardanomendixplug-in-sandbox.mxapps.io/](https://cardanomendixplug-in-sandbox.mxapps.io/)  
