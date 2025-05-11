@@ -7,11 +7,6 @@ header_transparent: false
 description: A complete list of all pages on the Landano website
 sitemap: false
 ---
-
-# Sitemap
-
-A complete list of all pages on the Landano website.
-
 ## Main Pages
 
 <ul>
