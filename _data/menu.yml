@@ -42,3 +42,7 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
+  - name: Sitemap
+    url: /sitemap/
+    weight: 4
+    active: false
