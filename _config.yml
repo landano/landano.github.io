@@ -55,7 +55,7 @@ defaults:
   values:
     permalink: "/:basename/"
 baseurl: "/"
-url: ''
+url: 'https://www.landano.io'
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -63,6 +63,7 @@ collections_dir: collections
 plugins:
 - jekyll-environment-variables
 - jekyll-paginate
+- jekyll-sitemap
 paginate: 6
 paginate_path: "/blog/page/:num"
 sass:
